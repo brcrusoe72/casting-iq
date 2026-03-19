@@ -1,0 +1,66 @@
+{
+  "fingerprint": "01fae791775e",
+  "created": "2026-03-19T01:17:53.522256",
+  "mappings": {
+    "Evt_Date": {
+      "mapped_name": "timestamp",
+      "confidence": 1.0,
+      "detected_type": "datetime"
+    },
+    "Machine ID": {
+      "mapped_name": "equipment_id",
+      "confidence": 0.98,
+      "detected_type": "datetime"
+    },
+    "Part Num": {
+      "mapped_name": "part_id",
+      "confidence": 0.98,
+      "detected_type": "datetime"
+    },
+    "Shift Name": {
+      "mapped_name": "shift",
+      "confidence": 0.98,
+      "detected_type": "categorical"
+    },
+    "Qty Produced": {
+      "mapped_name": "quantity_produced",
+      "confidence": 0.98,
+      "detected_type": "datetime"
+    },
+    "Good Parts": {
+      "mapped_name": "quantity_good",
+      "confidence": 0.98,
+      "detected_type": "datetime"
+    },
+    "Scrap Qty": {
+      "mapped_name": "quantity_scrap",
+      "confidence": 0.9249999999999999,
+      "detected_type": "datetime"
+    },
+    "DT Min": {
+      "mapped_name": "downtime_minutes",
+      "confidence": 0.98,
+      "detected_type": "numeric"
+    },
+    "Dwn_Time_Reason": {
+      "mapped_name": "downtime_reason",
+      "confidence": 0.9333333333333333,
+      "detected_type": "categorical"
+    },
+    "Defect Type": {
+      "mapped_name": "defect_type",
+      "confidence": 1.0,
+      "detected_type": "categorical"
+    },
+    "Temp (F)": {
+      "mapped_name": "temperature",
+      "confidence": 0.98,
+      "detected_type": "datetime"
+    },
+    "Operator": {
+      "mapped_name": "operator",
+      "confidence": 1.0,
+      "detected_type": "categorical"
+    }
+  }
+}

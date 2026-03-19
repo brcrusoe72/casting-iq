@@ -118,9 +118,9 @@ col5.metric("Breakdowns", f"{len(dt_f[dt_f['category']=='Breakdown'])}", f"{dt_f
 st.markdown("---")
 
 # --- Tabs ---
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "📊 OEE Dashboard", "🎯 Yield Analysis", "📈 SPC Charts",
-    "🔍 Hidden Patterns", "⏱️ Cycle Time", "🛑 Downtime"
+    "🔍 Hidden Patterns", "⏱️ Cycle Time", "🛑 Downtime", "📥 Data Upload"
 ])
 
 # ========== TAB 1: OEE DASHBOARD ==========
@@ -629,6 +629,116 @@ with tab6:
                          })
     fig_dt_trend.update_layout(height=400, template="plotly_white")
     st.plotly_chart(fig_dt_trend, use_container_width=True)
+
+
+# ========== TAB 7: DATA UPLOAD ==========
+with tab7:
+    st.subheader("📥 Adaptive Data Upload")
+    st.markdown("""
+    Upload any CSV or Excel file from your MES, SCADA, or production system.
+    The engine auto-detects column meanings, cleans the data, and scores quality.
+    *It handles messy real-world exports — inconsistent headers, mixed formats, encoding issues.*
+    """)
+
+    from engine import AdaptiveDataEngine, STANDARD_SCHEMA
+
+    uploaded_file = st.file_uploader(
+        "Drop a CSV or Excel file",
+        type=["csv", "xlsx", "xls"],
+        help="Supports files up to 100 MB with any encoding.",
+    )
+
+    if uploaded_file is not None:
+        engine = AdaptiveDataEngine()
+
+        with st.spinner("🔍 Analyzing data structure..."):
+            try:
+                result = engine.ingest(uploaded_file)
+            except Exception as e:
+                st.error(f"Failed to read file: {e}")
+                st.stop()
+
+        # --- Quality Score ---
+        q = result.quality_score
+        grade_colors = {"A": "green", "B": "green", "C": "orange", "D": "red", "F": "red"}
+        grade_color = grade_colors.get(q.grade, "gray")
+
+        col_q1, col_q2, col_q3, col_q4, col_q5 = st.columns(5)
+        col_q1.markdown(
+            f"<div style='text-align:center'>"
+            f"<span style='font-size:3em;color:{grade_color};font-weight:bold'>{q.grade}</span>"
+            f"<br><b>Data Health</b><br>{q.overall:.0f}/100</div>",
+            unsafe_allow_html=True,
+        )
+        col_q2.metric("Completeness", f"{q.completeness:.0f}%")
+        col_q3.metric("Consistency", f"{q.consistency:.0f}%")
+        col_q4.metric("Timeliness", f"{q.timeliness:.0f}%")
+        col_q5.metric("Accuracy", f"{q.accuracy:.0f}%")
+
+        st.markdown(f"**{result.row_count_raw}** rows read → **{result.row_count_clean}** after cleaning "
+                    f"({result.duplicates_removed} duplicates removed)")
+
+        # --- Column Mapping ---
+        st.markdown("---")
+        st.subheader("Column Mapping")
+        st.markdown("Columns are auto-mapped to a standard schema. Correct any wrong mappings below.")
+
+        schema_options = ["(unmapped)"] + sorted(STANDARD_SCHEMA.keys())
+        updated_mappings = []
+        mapping_cols = st.columns(3)
+
+        for i, m in enumerate(result.column_mappings):
+            with mapping_cols[i % 3]:
+                conf_label = f"{'✓' if m.confidence >= 0.70 else '⚠'} {m.confidence:.0%}"
+                default_idx = schema_options.index(m.mapped_name) if m.mapped_name in schema_options else 0
+                choice = st.selectbox(
+                    f"**{m.raw_name}** ({m.detected_type}) {conf_label}",
+                    schema_options,
+                    index=default_idx,
+                    key=f"map_{i}",
+                )
+                new_mapped = choice if choice != "(unmapped)" else None
+                m.mapped_name = new_mapped
+                if new_mapped:
+                    m.confidence = 1.0
+                updated_mappings.append(m)
+
+        # --- Outliers ---
+        if result.outliers:
+            with st.expander(f"⚠ Outliers Flagged ({sum(len(v) for v in result.outliers.values())} values)"):
+                for col, indices in result.outliers.items():
+                    st.markdown(f"**{col}**: {len(indices)} outlier rows (IQR method)")
+
+        # --- Cleaning Log ---
+        with st.expander("🔧 Cleaning Log"):
+            for msg in result.cleaning_log:
+                st.text(msg)
+
+        # --- Preview ---
+        st.markdown("---")
+        st.subheader("Cleaned Data Preview")
+        st.dataframe(result.dataframe.head(50), use_container_width=True)
+
+        # --- Analyze button ---
+        if st.button("🚀 Analyze This Data", type="primary"):
+            st.session_state["uploaded_data"] = result.dataframe
+            st.success("Data loaded! Switch to the analysis tabs to explore.")
+            st.balloons()
+
+    else:
+        st.info("Upload a file to get started. The engine handles CSV, XLS, and XLSX from any source.")
+        st.markdown("""
+        **What the engine handles automatically:**
+        - 🔤 Column name fuzzy matching ("Dwn_Time_Min" → "downtime_minutes")
+        - 📅 15+ timestamp formats (US, European, ISO, natural language)
+        - 🔢 Mixed numeric formats ("12,5" vs "12.5" vs currency symbols)
+        - 🌡️ Unit detection (°F→°C, hours→minutes)
+        - 🚫 Null normalization ("N/A", "#N/A", "null", "-", "" → NaN)
+        - 📊 Duplicate detection and removal
+        - 📏 IQR-based outlier flagging (non-destructive)
+        - 🔐 Encoding detection (UTF-8, Latin-1, CP1252)
+        - 💾 Schema learning — remembers mappings for recurring file formats
+        """)
 
 
 # --- Footer ---

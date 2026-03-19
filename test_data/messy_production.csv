@@ -1,0 +1,23 @@
+Evt_Date,Machine ID,Part Num,Shift Name,Qty Produced,Good Parts,Scrap Qty,DT Min,Dwn_Time_Reason,Defect Type,Temp (F),Operator
+01/15/2025,FURN-01,PN-4421,Day,120,115,5,12.5,Tooling Change,Shell Crack,2750,jsmith
+2025-01-15 08:30:00,FURN-02,PN-4421,Day,95,90,5,0,N/A,none,2800,bjones
+Jan 16 2025,FURN-01,PN-5533,Swing,80,78,2,,,-,2780.0,MWILLIAMS
+1/16/2025,furn-03,PN-5533,Night,null,#N/A,N/A,45,Breakdown - Vacuum Pump,Porosity,2720,
+17-Jan-2025,FURN-01,PN-4421,Day,110,105,5,8,Minor Adjustment,,2755,jsmith
+2025/01/17,FURN-02,pn-5533,swing,88,86,2,0,null,none,2810,bjones
+01-18-2025,Furn-01,PN-6677,,75,70,5,25.0,Material Wait,Dimensional,2690,mwilliams
+18 January 2025,FURN-03,PN-4421,Night,100,97,3,0,-,"Shell Crack, Porosity",2770,dlee
+2025.01.19,furn-02,PN-6677,Day,NOT AVAILABLE,85,N/A,0,,none,2800,bjones
+01/20/2025,FURN-01,PN-5533,Day,130,125,5,10,Tooling Change,-,2760,jsmith
+20-01-2025,FURN-02,PN-4421,Swing,92,,3,0,none,Inclusion,twelve hundred,bjones
+2025-01-21,FURN-03,PN-6677,Night,70,68,2,30,Unplanned Maint.,Porosity,2730,dlee
+01/21/2025,FURN-01,PN-5533,Day,85,82,3,0,-,none,2755,
+2025-01-22,Furnace 02,PN-4421,Day,98,95,3,15.0,Setup,Shell Crack,2,795,bjones
+January 23 2025,FURN-03,PN-5533,night,105,100,5,0,n/a,,2740,dlee
+01/24/2025,FURN-01,PN-6677,Day,115,112,3,5,Minor Adjustment,Dimensional,2770,jsmith
+24/01/2025,FURN-02,PN-5533,Swing,78,75,3,0,#N/A,none,,
+2025-01-25,FURN-01,PN-4421,night,90,87,3,20.0,Breakdown - Electrical,Inclusion,2680,jsmith
+01/25/2025,FURN-03,pn-6677,Day,65,62,3,0,,,2750,DLEE
+1/26/2025,FURN-02,PN-4421,Day,100,98,2,0,none,none,2810,bjones
+01/15/2025,FURN-01,PN-4421,Day,120,115,5,12.5,Tooling Change,Shell Crack,2750,jsmith
+2025-01-15 08:30:00,FURN-02,PN-4421,Day,95,90,5,0,N/A,none,2800,bjones
