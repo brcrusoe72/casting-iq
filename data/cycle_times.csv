@@ -1,0 +1,3201 @@
+operation,process_time_hrs,queue_time_hrs,total_time_hrs
+Wax Injection,0.45,0.5,0.95
+Wax Injection,0.52,0.18,0.69
+Wax Injection,0.42,0.12,0.54
+Wax Injection,0.66,0.07,0.73
+Wax Injection,0.46,0.16,0.62
+Wax Injection,0.42,0.11,0.53
+Wax Injection,0.58,0.05,0.63
+Wax Injection,0.55,0.01,0.56
+Wax Injection,0.43,0.6,1.03
+Wax Injection,0.45,0.05,0.5
+Wax Injection,0.47,0.07,0.53
+Wax Injection,0.48,0.37,0.84
+Wax Injection,0.41,0.68,1.1
+Wax Injection,0.51,0.16,0.67
+Wax Injection,0.64,0.16,0.8
+Wax Injection,0.46,0.45,0.91
+Wax Injection,0.6,0.08,0.68
+Wax Injection,0.62,0.92,1.54
+Wax Injection,0.42,0.03,0.46
+Wax Injection,0.7,0.16,0.86
+Wax Injection,0.39,0.01,0.4
+Wax Injection,0.65,0.32,0.97
+Wax Injection,0.63,0.06,0.69
+Wax Injection,0.61,0.03,0.64
+Wax Injection,0.34,0.3,0.65
+Wax Injection,0.47,0.15,0.62
+Wax Injection,0.47,0.44,0.91
+Wax Injection,0.47,0.2,0.67
+Wax Injection,0.66,0.33,0.99
+Wax Injection,0.43,0.02,0.45
+Wax Injection,0.47,0.04,0.51
+Wax Injection,0.44,0.11,0.55
+Wax Injection,0.44,0.06,0.49
+Wax Injection,0.38,0.0,0.38
+Wax Injection,0.5,0.14,0.65
+Wax Injection,0.46,0.01,0.47
+Wax Injection,0.25,0.43,0.68
+Wax Injection,0.47,0.17,0.64
+Wax Injection,0.56,0.2,0.76
+Wax Injection,0.63,0.08,0.7
+Wax Injection,0.53,0.16,0.69
+Wax Injection,0.45,0.14,0.59
+Wax Injection,0.51,0.1,0.62
+Wax Injection,0.51,0.46,0.96
+Wax Injection,0.42,0.14,0.56
+Wax Injection,0.64,0.05,0.69
+Wax Injection,0.49,1.0,1.49
+Wax Injection,0.42,0.41,0.83
+Wax Injection,0.37,0.49,0.86
+Wax Injection,0.49,0.52,1.0
+Wax Injection,0.54,0.05,0.59
+Wax Injection,0.6,0.06,0.66
+Wax Injection,0.65,0.35,1.0
+Wax Injection,0.45,0.11,0.56
+Wax Injection,0.34,0.1,0.43
+Wax Injection,0.38,0.28,0.66
+Wax Injection,0.45,0.03,0.47
+Wax Injection,0.46,0.05,0.51
+Wax Injection,0.51,0.06,0.58
+Wax Injection,0.63,0.04,0.67
+Wax Injection,0.5,0.03,0.53
+Wax Injection,0.66,0.09,0.75
+Wax Injection,0.3,0.06,0.36
+Wax Injection,0.42,0.08,0.5
+Wax Injection,0.51,0.02,0.52
+Wax Injection,0.47,0.05,0.52
+Wax Injection,0.64,0.11,0.76
+Wax Injection,0.52,0.42,0.94
+Wax Injection,0.41,0.23,0.64
+Wax Injection,0.56,0.08,0.64
+Wax Injection,0.43,0.03,0.46
+Wax Injection,0.57,0.2,0.78
+Wax Injection,0.62,0.06,0.68
+Wax Injection,0.69,0.05,0.74
+Wax Injection,0.51,0.1,0.61
+Wax Injection,0.59,0.34,0.93
+Wax Injection,0.51,0.03,0.55
+Wax Injection,0.46,0.05,0.52
+Wax Injection,0.36,0.3,0.66
+Wax Injection,0.59,0.15,0.73
+Wax Injection,0.58,0.2,0.78
+Wax Injection,0.46,0.11,0.57
+Wax Injection,0.33,0.02,0.35
+Wax Injection,0.47,0.07,0.54
+Wax Injection,0.41,0.13,0.54
+Wax Injection,0.38,0.01,0.39
+Wax Injection,0.53,0.04,0.57
+Wax Injection,0.45,0.08,0.53
+Wax Injection,0.52,0.03,0.55
+Wax Injection,0.5,0.28,0.79
+Wax Injection,0.41,0.04,0.45
+Wax Injection,0.5,0.24,0.74
+Wax Injection,0.44,0.9,1.34
+Wax Injection,0.38,0.21,0.59
+Wax Injection,0.38,0.05,0.43
+Wax Injection,0.45,0.01,0.46
+Wax Injection,0.42,0.36,0.78
+Wax Injection,0.58,0.14,0.72
+Wax Injection,0.63,0.15,0.78
+Wax Injection,0.5,0.08,0.58
+Wax Injection,0.61,0.01,0.62
+Wax Injection,0.56,0.05,0.62
+Wax Injection,0.53,0.21,0.75
+Wax Injection,0.48,0.05,0.52
+Wax Injection,0.48,0.22,0.7
+Wax Injection,0.53,0.12,0.65
+Wax Injection,0.52,0.08,0.6
+Wax Injection,0.46,0.09,0.55
+Wax Injection,0.56,0.03,0.6
+Wax Injection,0.44,0.05,0.49
+Wax Injection,0.39,0.02,0.41
+Wax Injection,0.47,0.15,0.62
+Wax Injection,0.53,0.32,0.85
+Wax Injection,0.38,0.03,0.41
+Wax Injection,0.5,0.05,0.55
+Wax Injection,0.34,0.01,0.35
+Wax Injection,0.22,0.26,0.48
+Wax Injection,0.56,0.39,0.95
+Wax Injection,0.48,0.6,1.08
+Wax Injection,0.48,0.11,0.58
+Wax Injection,0.49,0.09,0.57
+Wax Injection,0.54,0.25,0.78
+Wax Injection,0.48,0.1,0.58
+Wax Injection,0.41,0.01,0.42
+Wax Injection,0.41,0.01,0.42
+Wax Injection,0.34,0.0,0.34
+Wax Injection,0.37,0.09,0.46
+Wax Injection,0.54,0.02,0.56
+Wax Injection,0.5,0.34,0.84
+Wax Injection,0.59,0.03,0.62
+Wax Injection,0.39,1.07,1.46
+Wax Injection,0.48,0.01,0.5
+Wax Injection,0.4,0.01,0.42
+Wax Injection,0.49,0.27,0.75
+Wax Injection,0.46,0.04,0.5
+Wax Injection,0.53,0.04,0.57
+Wax Injection,0.39,0.01,0.4
+Wax Injection,0.55,0.12,0.67
+Wax Injection,0.4,0.13,0.53
+Wax Injection,0.73,0.12,0.86
+Wax Injection,0.45,0.01,0.46
+Wax Injection,0.59,0.39,0.98
+Wax Injection,0.47,0.24,0.71
+Wax Injection,0.52,0.12,0.64
+Wax Injection,0.54,0.09,0.63
+Wax Injection,0.43,0.48,0.92
+Wax Injection,0.68,0.04,0.73
+Wax Injection,0.64,0.42,1.05
+Wax Injection,0.44,0.12,0.55
+Wax Injection,0.59,0.31,0.89
+Wax Injection,0.54,0.06,0.61
+Wax Injection,0.55,0.29,0.84
+Wax Injection,0.54,0.66,1.21
+Wax Injection,0.72,0.18,0.91
+Wax Injection,0.54,0.01,0.55
+Wax Injection,0.56,0.06,0.62
+Wax Injection,0.38,0.62,1.01
+Wax Injection,0.7,0.18,0.88
+Wax Injection,0.51,0.05,0.56
+Wax Injection,0.59,0.1,0.69
+Wax Injection,0.49,0.02,0.51
+Wax Injection,0.55,0.07,0.62
+Wax Injection,0.53,0.52,1.05
+Wax Injection,0.41,0.46,0.87
+Wax Injection,0.6,0.04,0.64
+Wax Injection,0.47,0.2,0.67
+Wax Injection,0.64,0.05,0.69
+Wax Injection,0.55,0.2,0.75
+Wax Injection,0.43,0.08,0.51
+Wax Injection,0.52,0.05,0.57
+Wax Injection,0.58,0.34,0.91
+Wax Injection,0.44,0.55,0.99
+Wax Injection,0.54,0.05,0.58
+Wax Injection,0.42,0.21,0.63
+Wax Injection,0.56,0.04,0.6
+Wax Injection,0.72,0.05,0.77
+Wax Injection,0.61,0.22,0.84
+Wax Injection,0.51,0.01,0.51
+Wax Injection,0.38,0.5,0.89
+Wax Injection,0.53,0.03,0.56
+Wax Injection,0.52,0.31,0.84
+Wax Injection,0.44,0.06,0.5
+Wax Injection,0.4,0.29,0.69
+Wax Injection,0.36,0.06,0.42
+Wax Injection,0.47,0.68,1.15
+Wax Injection,0.44,0.11,0.56
+Wax Injection,0.65,0.16,0.82
+Wax Injection,0.54,0.21,0.75
+Wax Injection,0.47,0.02,0.49
+Wax Injection,0.59,0.02,0.61
+Wax Injection,0.56,0.17,0.73
+Wax Injection,0.62,0.53,1.15
+Wax Injection,0.45,0.13,0.58
+Wax Injection,0.51,0.05,0.56
+Wax Injection,0.38,0.21,0.59
+Wax Injection,0.55,0.43,0.98
+Wax Injection,0.48,0.22,0.71
+Wax Injection,0.47,0.25,0.72
+Wax Injection,0.39,0.06,0.45
+Wax Injection,0.53,0.48,1.0
+Wax Assembly,0.73,0.12,0.85
+Wax Assembly,0.59,0.3,0.89
+Wax Assembly,0.9,0.06,0.96
+Wax Assembly,1.14,0.56,1.69
+Wax Assembly,1.18,0.56,1.74
+Wax Assembly,1.11,0.22,1.32
+Wax Assembly,1.1,0.84,1.94
+Wax Assembly,0.84,0.07,0.91
+Wax Assembly,0.59,0.29,0.88
+Wax Assembly,1.04,0.01,1.06
+Wax Assembly,0.95,0.07,1.02
+Wax Assembly,0.56,0.21,0.77
+Wax Assembly,0.9,1.52,2.42
+Wax Assembly,0.88,0.37,1.25
+Wax Assembly,1.09,0.19,1.29
+Wax Assembly,0.52,0.37,0.89
+Wax Assembly,1.0,0.14,1.13
+Wax Assembly,0.83,0.31,1.14
+Wax Assembly,1.31,0.07,1.38
+Wax Assembly,0.93,0.5,1.43
+Wax Assembly,1.33,0.3,1.63
+Wax Assembly,0.73,0.24,0.97
+Wax Assembly,0.76,0.23,0.99
+Wax Assembly,0.99,0.56,1.55
+Wax Assembly,1.05,0.7,1.75
+Wax Assembly,1.16,0.28,1.45
+Wax Assembly,1.14,0.48,1.63
+Wax Assembly,0.82,0.0,0.82
+Wax Assembly,1.15,1.66,2.81
+Wax Assembly,0.99,0.24,1.24
+Wax Assembly,1.18,0.42,1.61
+Wax Assembly,0.81,0.43,1.24
+Wax Assembly,0.87,1.11,1.99
+Wax Assembly,1.35,0.18,1.53
+Wax Assembly,0.91,0.43,1.34
+Wax Assembly,1.16,0.02,1.19
+Wax Assembly,0.48,0.15,0.63
+Wax Assembly,0.91,0.24,1.14
+Wax Assembly,1.15,0.33,1.48
+Wax Assembly,0.92,0.15,1.07
+Wax Assembly,1.22,0.21,1.43
+Wax Assembly,0.97,0.22,1.2
+Wax Assembly,0.76,0.26,1.01
+Wax Assembly,0.83,0.53,1.37
+Wax Assembly,0.75,0.43,1.18
+Wax Assembly,0.88,0.66,1.54
+Wax Assembly,1.01,0.92,1.93
+Wax Assembly,0.97,0.04,1.0
+Wax Assembly,1.0,0.52,1.52
+Wax Assembly,1.03,0.03,1.06
+Wax Assembly,0.94,1.36,2.3
+Wax Assembly,0.83,0.05,0.88
+Wax Assembly,0.95,0.03,0.98
+Wax Assembly,1.07,0.06,1.13
+Wax Assembly,0.85,0.0,0.86
+Wax Assembly,1.08,0.6,1.68
+Wax Assembly,1.17,0.34,1.51
+Wax Assembly,1.07,0.02,1.09
+Wax Assembly,1.03,0.19,1.22
+Wax Assembly,1.04,0.43,1.47
+Wax Assembly,1.04,0.11,1.16
+Wax Assembly,0.92,1.09,2.01
+Wax Assembly,0.75,0.13,0.89
+Wax Assembly,0.75,0.4,1.15
+Wax Assembly,1.06,0.54,1.6
+Wax Assembly,1.03,0.11,1.14
+Wax Assembly,0.76,0.46,1.22
+Wax Assembly,0.89,0.11,1.0
+Wax Assembly,1.24,0.29,1.53
+Wax Assembly,1.05,0.36,1.41
+Wax Assembly,1.13,0.05,1.17
+Wax Assembly,1.2,1.83,3.03
+Wax Assembly,0.87,0.14,1.0
+Wax Assembly,1.08,0.17,1.25
+Wax Assembly,1.22,0.56,1.78
+Wax Assembly,0.83,0.3,1.13
+Wax Assembly,0.64,0.01,0.65
+Wax Assembly,1.13,0.17,1.3
+Wax Assembly,1.01,0.08,1.09
+Wax Assembly,1.0,0.43,1.43
+Wax Assembly,1.1,0.27,1.37
+Wax Assembly,0.77,0.44,1.21
+Wax Assembly,1.04,0.27,1.31
+Wax Assembly,1.35,0.03,1.38
+Wax Assembly,0.72,0.39,1.11
+Wax Assembly,0.81,0.13,0.94
+Wax Assembly,1.11,0.71,1.82
+Wax Assembly,0.91,0.16,1.07
+Wax Assembly,1.0,0.24,1.24
+Wax Assembly,0.83,0.82,1.64
+Wax Assembly,1.14,0.26,1.4
+Wax Assembly,1.01,0.44,1.45
+Wax Assembly,0.6,0.01,0.61
+Wax Assembly,0.95,0.63,1.59
+Wax Assembly,1.05,0.13,1.18
+Wax Assembly,1.09,0.68,1.77
+Wax Assembly,1.31,0.03,1.34
+Wax Assembly,1.19,0.35,1.54
+Wax Assembly,1.39,0.59,1.98
+Wax Assembly,1.15,0.21,1.35
+Wax Assembly,1.04,0.18,1.22
+Wax Assembly,1.3,1.65,2.96
+Wax Assembly,0.83,0.19,1.02
+Wax Assembly,0.96,0.55,1.51
+Wax Assembly,0.95,0.69,1.64
+Wax Assembly,0.45,0.38,0.83
+Wax Assembly,0.82,0.12,0.93
+Wax Assembly,1.09,0.21,1.3
+Wax Assembly,0.93,0.72,1.65
+Wax Assembly,0.89,0.01,0.89
+Wax Assembly,1.03,0.2,1.22
+Wax Assembly,0.94,0.59,1.53
+Wax Assembly,0.97,0.02,0.99
+Wax Assembly,1.05,0.24,1.29
+Wax Assembly,1.01,0.19,1.2
+Wax Assembly,1.1,0.32,1.43
+Wax Assembly,1.1,0.46,1.56
+Wax Assembly,0.87,0.52,1.38
+Wax Assembly,1.19,0.89,2.08
+Wax Assembly,0.88,1.25,2.13
+Wax Assembly,0.72,0.2,0.92
+Wax Assembly,1.25,0.33,1.59
+Wax Assembly,1.28,0.04,1.31
+Wax Assembly,1.07,0.33,1.41
+Wax Assembly,1.2,0.17,1.38
+Wax Assembly,0.91,0.25,1.16
+Wax Assembly,0.85,0.32,1.18
+Wax Assembly,0.8,0.22,1.02
+Wax Assembly,0.98,0.07,1.05
+Wax Assembly,0.71,0.85,1.57
+Wax Assembly,0.81,1.01,1.81
+Wax Assembly,0.88,0.86,1.74
+Wax Assembly,0.88,0.44,1.32
+Wax Assembly,1.16,0.02,1.18
+Wax Assembly,0.95,0.25,1.2
+Wax Assembly,1.23,0.66,1.89
+Wax Assembly,0.81,0.28,1.09
+Wax Assembly,0.98,0.24,1.22
+Wax Assembly,0.73,0.07,0.8
+Wax Assembly,0.96,0.6,1.56
+Wax Assembly,0.91,1.42,2.33
+Wax Assembly,1.05,0.92,1.97
+Wax Assembly,0.89,0.53,1.42
+Wax Assembly,1.18,0.69,1.87
+Wax Assembly,0.87,0.24,1.11
+Wax Assembly,1.11,0.03,1.14
+Wax Assembly,0.47,0.93,1.4
+Wax Assembly,1.23,0.01,1.24
+Wax Assembly,1.35,0.25,1.59
+Wax Assembly,1.04,0.11,1.15
+Wax Assembly,1.01,0.02,1.03
+Wax Assembly,1.0,0.09,1.09
+Wax Assembly,1.51,0.39,1.9
+Wax Assembly,0.95,0.02,0.98
+Wax Assembly,0.97,0.34,1.32
+Wax Assembly,0.85,0.15,1.0
+Wax Assembly,0.83,0.13,0.96
+Wax Assembly,0.8,0.19,0.99
+Wax Assembly,1.13,1.02,2.15
+Wax Assembly,1.1,0.38,1.48
+Wax Assembly,1.09,0.01,1.1
+Wax Assembly,1.12,0.67,1.78
+Wax Assembly,1.36,0.86,2.23
+Wax Assembly,1.2,0.0,1.2
+Wax Assembly,1.04,0.21,1.25
+Wax Assembly,0.81,0.22,1.03
+Wax Assembly,1.19,0.04,1.23
+Wax Assembly,0.89,0.3,1.19
+Wax Assembly,1.44,0.02,1.46
+Wax Assembly,0.64,0.45,1.09
+Wax Assembly,1.0,0.12,1.13
+Wax Assembly,0.94,0.15,1.09
+Wax Assembly,1.41,0.11,1.52
+Wax Assembly,0.94,0.32,1.26
+Wax Assembly,0.58,0.29,0.86
+Wax Assembly,0.86,0.98,1.84
+Wax Assembly,0.89,0.58,1.48
+Wax Assembly,1.09,0.2,1.29
+Wax Assembly,1.28,0.25,1.53
+Wax Assembly,0.88,0.03,0.91
+Wax Assembly,1.09,0.36,1.44
+Wax Assembly,0.95,0.79,1.74
+Wax Assembly,1.22,0.62,1.83
+Wax Assembly,0.78,0.08,0.86
+Wax Assembly,1.01,0.34,1.35
+Wax Assembly,0.96,0.02,0.98
+Wax Assembly,1.29,0.1,1.38
+Wax Assembly,0.6,0.04,0.64
+Wax Assembly,0.78,0.22,1.0
+Wax Assembly,0.97,0.13,1.1
+Wax Assembly,0.95,0.81,1.75
+Wax Assembly,1.0,0.02,1.02
+Wax Assembly,1.38,0.42,1.8
+Wax Assembly,0.84,0.14,0.98
+Wax Assembly,0.11,0.06,0.16
+Wax Assembly,0.88,0.19,1.06
+Wax Assembly,0.98,0.52,1.5
+Wax Assembly,0.87,1.67,2.54
+Wax Assembly,0.65,0.09,0.74
+Wax Assembly,1.12,0.47,1.6
+Shell Building,43.67,13.32,56.99
+Shell Building,62.85,71.2,134.05
+Shell Building,60.94,126.33,187.27
+Shell Building,35.03,22.26,57.29
+Shell Building,31.74,71.98,103.71
+Shell Building,49.34,6.68,56.01
+Shell Building,54.72,19.93,74.65
+Shell Building,34.31,5.8,40.12
+Shell Building,38.78,41.45,80.23
+Shell Building,45.95,16.86,62.81
+Shell Building,45.55,19.3,64.85
+Shell Building,51.94,4.72,56.66
+Shell Building,40.73,15.31,56.04
+Shell Building,36.95,15.58,52.53
+Shell Building,49.19,7.22,56.4
+Shell Building,60.38,1.04,61.42
+Shell Building,46.59,12.7,59.29
+Shell Building,40.69,9.1,49.79
+Shell Building,58.42,21.71,80.12
+Shell Building,50.21,38.74,88.94
+Shell Building,41.23,3.12,44.35
+Shell Building,49.99,9.51,59.49
+Shell Building,55.36,18.87,74.23
+Shell Building,37.56,11.92,49.48
+Shell Building,53.61,12.99,66.6
+Shell Building,49.96,8.19,58.15
+Shell Building,38.68,1.97,40.65
+Shell Building,47.38,10.15,57.52
+Shell Building,57.38,37.83,95.21
+Shell Building,55.64,47.43,103.07
+Shell Building,38.99,3.06,42.06
+Shell Building,60.59,0.13,60.73
+Shell Building,38.8,1.59,40.4
+Shell Building,61.31,6.27,67.59
+Shell Building,59.91,7.26,67.17
+Shell Building,46.69,20.5,67.19
+Shell Building,48.23,20.58,68.8
+Shell Building,51.8,27.77,79.57
+Shell Building,48.36,27.03,75.39
+Shell Building,51.79,4.1,55.89
+Shell Building,51.82,49.46,101.28
+Shell Building,41.78,16.1,57.88
+Shell Building,67.55,40.64,108.19
+Shell Building,57.48,30.91,88.39
+Shell Building,46.84,27.38,74.22
+Shell Building,48.89,28.08,76.97
+Shell Building,47.32,1.98,49.3
+Shell Building,39.21,9.71,48.92
+Shell Building,38.28,2.72,41.0
+Shell Building,52.87,19.52,72.39
+Shell Building,45.4,45.04,90.45
+Shell Building,50.45,25.65,76.1
+Shell Building,41.9,50.99,92.89
+Shell Building,50.86,12.32,63.18
+Shell Building,56.6,14.54,71.14
+Shell Building,72.23,33.23,105.47
+Shell Building,47.7,18.27,65.97
+Shell Building,40.51,2.41,42.92
+Shell Building,50.42,4.84,55.26
+Shell Building,69.41,5.71,75.12
+Shell Building,50.0,3.08,53.08
+Shell Building,43.97,29.87,73.84
+Shell Building,45.72,5.79,51.51
+Shell Building,51.44,2.52,53.96
+Shell Building,52.23,5.36,57.59
+Shell Building,48.37,3.34,51.72
+Shell Building,56.34,39.21,95.55
+Shell Building,50.48,8.14,58.62
+Shell Building,51.49,25.35,76.84
+Shell Building,58.84,21.69,80.53
+Shell Building,45.28,27.65,72.93
+Shell Building,40.89,27.39,68.28
+Shell Building,47.16,39.02,86.19
+Shell Building,39.65,30.11,69.76
+Shell Building,37.14,7.53,44.67
+Shell Building,50.99,20.36,71.35
+Shell Building,52.23,9.66,61.89
+Shell Building,58.48,16.5,74.99
+Shell Building,56.7,17.46,74.16
+Shell Building,45.49,12.68,58.17
+Shell Building,49.76,22.44,72.2
+Shell Building,44.94,17.11,62.04
+Shell Building,49.39,1.02,50.41
+Shell Building,43.73,33.16,76.89
+Shell Building,48.73,36.23,84.96
+Shell Building,56.73,9.83,66.56
+Shell Building,46.88,15.71,62.59
+Shell Building,33.16,27.92,61.09
+Shell Building,56.43,52.73,109.16
+Shell Building,50.42,14.17,64.59
+Shell Building,46.77,45.41,92.18
+Shell Building,62.51,0.6,63.1
+Shell Building,47.76,1.21,48.97
+Shell Building,62.55,26.29,88.84
+Shell Building,52.84,23.95,76.79
+Shell Building,28.95,5.58,34.53
+Shell Building,40.65,26.43,67.09
+Shell Building,37.15,76.94,114.09
+Shell Building,58.27,7.52,65.79
+Shell Building,35.29,40.2,75.5
+Shell Building,53.62,12.37,65.99
+Shell Building,50.13,7.84,57.98
+Shell Building,46.05,4.46,50.5
+Shell Building,51.27,40.8,92.07
+Shell Building,38.93,19.77,58.7
+Shell Building,51.85,40.11,91.96
+Shell Building,46.24,17.8,64.04
+Shell Building,45.04,2.35,47.38
+Shell Building,49.53,16.89,66.42
+Shell Building,54.69,1.1,55.79
+Shell Building,37.47,31.74,69.21
+Shell Building,45.28,7.87,53.15
+Shell Building,61.65,24.26,85.92
+Shell Building,38.59,29.96,68.55
+Shell Building,43.61,1.86,45.47
+Shell Building,41.99,37.27,79.25
+Shell Building,41.88,7.16,49.05
+Shell Building,44.98,1.13,46.11
+Shell Building,43.92,8.27,52.19
+Shell Building,54.45,54.13,108.57
+Shell Building,43.68,15.78,59.47
+Shell Building,43.47,68.84,112.31
+Shell Building,49.59,32.11,81.7
+Shell Building,54.87,12.84,67.71
+Shell Building,31.98,11.64,43.62
+Shell Building,37.48,23.56,61.04
+Shell Building,50.37,39.02,89.39
+Shell Building,58.02,19.55,77.57
+Shell Building,52.92,28.54,81.46
+Shell Building,55.86,0.37,56.23
+Shell Building,51.94,29.74,81.68
+Shell Building,53.85,3.84,57.69
+Shell Building,47.68,11.22,58.89
+Shell Building,47.3,6.06,53.37
+Shell Building,46.92,3.02,49.95
+Shell Building,60.45,39.48,99.92
+Shell Building,45.77,0.96,46.72
+Shell Building,50.26,44.01,94.27
+Shell Building,59.0,38.33,97.34
+Shell Building,38.1,8.02,46.12
+Shell Building,67.75,0.57,68.32
+Shell Building,32.12,33.84,65.96
+Shell Building,47.06,18.14,65.2
+Shell Building,53.03,14.98,68.0
+Shell Building,42.84,14.1,56.94
+Shell Building,46.12,5.37,51.49
+Shell Building,52.09,17.14,69.23
+Shell Building,64.74,17.68,82.41
+Shell Building,42.44,36.46,78.89
+Shell Building,51.41,30.13,81.54
+Shell Building,47.66,32.95,80.61
+Shell Building,57.05,3.21,60.26
+Shell Building,59.63,43.59,103.22
+Shell Building,65.23,38.15,103.38
+Shell Building,41.37,31.56,72.93
+Shell Building,52.4,18.29,70.69
+Shell Building,61.07,69.32,130.38
+Shell Building,45.33,4.61,49.95
+Shell Building,47.4,0.33,47.73
+Shell Building,48.59,36.05,84.63
+Shell Building,51.83,23.1,74.93
+Shell Building,54.61,11.82,66.43
+Shell Building,33.37,9.24,42.6
+Shell Building,38.45,53.13,91.57
+Shell Building,43.47,25.91,69.38
+Shell Building,55.68,20.52,76.19
+Shell Building,39.72,5.31,45.02
+Shell Building,54.5,23.49,77.99
+Shell Building,48.31,12.03,60.34
+Shell Building,55.75,32.41,88.16
+Shell Building,39.21,6.72,45.93
+Shell Building,60.26,13.47,73.73
+Shell Building,46.08,14.61,60.7
+Shell Building,57.06,3.3,60.36
+Shell Building,45.38,34.96,80.34
+Shell Building,47.7,4.45,52.15
+Shell Building,46.22,34.7,80.92
+Shell Building,53.25,9.48,62.73
+Shell Building,48.1,5.8,53.9
+Shell Building,38.34,7.49,45.83
+Shell Building,39.19,13.24,52.43
+Shell Building,37.49,2.62,40.12
+Shell Building,53.91,27.06,80.97
+Shell Building,37.18,5.37,42.54
+Shell Building,46.74,76.19,122.93
+Shell Building,34.31,15.34,49.65
+Shell Building,50.51,27.77,78.28
+Shell Building,65.97,7.37,73.34
+Shell Building,47.8,50.6,98.4
+Shell Building,51.75,27.38,79.13
+Shell Building,42.79,8.27,51.05
+Shell Building,42.62,8.93,51.55
+Shell Building,53.37,12.66,66.03
+Shell Building,43.71,17.21,60.92
+Shell Building,53.38,10.39,63.77
+Shell Building,48.44,9.45,57.89
+Shell Building,35.92,17.95,53.87
+Shell Building,59.75,16.31,76.06
+Shell Building,30.24,4.06,34.3
+Shell Building,37.05,26.14,63.19
+Dewax,2.21,0.29,2.5
+Dewax,1.87,0.47,2.33
+Dewax,1.83,0.6,2.43
+Dewax,2.11,0.09,2.2
+Dewax,1.69,1.05,2.73
+Dewax,1.77,0.13,1.9
+Dewax,2.26,0.9,3.16
+Dewax,2.55,1.67,4.23
+Dewax,2.53,1.31,3.84
+Dewax,2.08,0.95,3.03
+Dewax,2.05,0.05,2.1
+Dewax,1.98,0.37,2.35
+Dewax,1.85,0.63,2.48
+Dewax,2.32,0.12,2.43
+Dewax,1.99,0.25,2.25
+Dewax,1.57,0.82,2.4
+Dewax,1.78,0.71,2.49
+Dewax,1.97,1.12,3.09
+Dewax,2.09,0.91,3.0
+Dewax,2.41,0.52,2.92
+Dewax,2.15,3.51,5.66
+Dewax,2.04,0.79,2.83
+Dewax,1.46,0.31,1.77
+Dewax,2.29,2.07,4.36
+Dewax,1.85,0.88,2.73
+Dewax,2.6,0.1,2.71
+Dewax,2.01,0.33,2.34
+Dewax,2.21,0.01,2.22
+Dewax,1.42,0.43,1.86
+Dewax,2.2,0.67,2.87
+Dewax,1.72,2.19,3.9
+Dewax,2.17,0.43,2.6
+Dewax,2.22,0.69,2.91
+Dewax,2.07,0.92,2.99
+Dewax,1.6,2.64,4.24
+Dewax,2.21,0.51,2.72
+Dewax,2.35,1.99,4.34
+Dewax,2.48,0.62,3.11
+Dewax,1.68,1.33,3.01
+Dewax,1.86,0.32,2.18
+Dewax,2.52,1.08,3.6
+Dewax,2.96,0.92,3.88
+Dewax,1.48,0.25,1.73
+Dewax,1.46,0.33,1.8
+Dewax,2.15,0.04,2.2
+Dewax,2.52,0.57,3.09
+Dewax,2.09,2.53,4.62
+Dewax,1.78,0.02,1.81
+Dewax,1.84,0.25,2.08
+Dewax,1.94,0.65,2.59
+Dewax,1.39,0.19,1.58
+Dewax,1.74,0.77,2.52
+Dewax,2.55,1.26,3.81
+Dewax,2.26,1.05,3.3
+Dewax,2.13,0.88,3.01
+Dewax,2.15,0.98,3.13
+Dewax,2.09,0.03,2.12
+Dewax,2.58,0.69,3.27
+Dewax,1.56,0.54,2.09
+Dewax,1.78,1.51,3.29
+Dewax,2.14,0.44,2.58
+Dewax,2.02,0.15,2.17
+Dewax,1.75,0.92,2.67
+Dewax,1.87,0.14,2.01
+Dewax,2.24,0.46,2.7
+Dewax,2.01,0.41,2.42
+Dewax,2.19,0.29,2.48
+Dewax,1.77,3.72,5.49
+Dewax,1.77,0.37,2.14
+Dewax,2.02,0.48,2.5
+Dewax,1.72,0.03,1.75
+Dewax,1.88,0.3,2.18
+Dewax,1.83,0.73,2.56
+Dewax,2.21,3.62,5.83
+Dewax,2.35,0.73,3.08
+Dewax,1.53,0.72,2.25
+Dewax,1.97,0.46,2.43
+Dewax,1.88,1.32,3.2
+Dewax,2.11,0.16,2.27
+Dewax,2.08,0.82,2.9
+Dewax,2.13,1.33,3.46
+Dewax,1.74,0.29,2.02
+Dewax,1.85,1.33,3.18
+Dewax,1.81,0.63,2.44
+Dewax,2.72,0.54,3.26
+Dewax,2.34,1.59,3.94
+Dewax,2.77,3.12,5.89
+Dewax,2.06,0.49,2.55
+Dewax,2.08,0.98,3.05
+Dewax,1.61,0.11,1.71
+Dewax,1.76,1.85,3.61
+Dewax,2.19,0.58,2.77
+Dewax,1.96,2.5,4.46
+Dewax,2.14,3.04,5.18
+Dewax,1.46,0.84,2.3
+Dewax,1.52,0.1,1.61
+Dewax,1.77,0.13,1.9
+Dewax,2.22,1.27,3.48
+Dewax,2.07,0.09,2.16
+Dewax,1.87,1.08,2.94
+Dewax,2.12,0.35,2.47
+Dewax,2.41,0.22,2.62
+Dewax,1.8,0.31,2.12
+Dewax,2.09,0.7,2.8
+Dewax,1.94,0.24,2.19
+Dewax,2.01,1.07,3.07
+Dewax,2.22,2.58,4.8
+Dewax,2.09,1.63,3.72
+Dewax,2.53,0.37,2.9
+Dewax,2.66,1.83,4.49
+Dewax,2.15,1.21,3.35
+Dewax,2.17,1.51,3.69
+Dewax,2.16,0.49,2.65
+Dewax,2.31,0.64,2.96
+Dewax,2.39,0.25,2.64
+Dewax,2.04,0.36,2.4
+Dewax,2.09,0.54,2.63
+Dewax,2.01,0.11,2.12
+Dewax,2.31,1.5,3.81
+Dewax,2.47,1.54,4.01
+Dewax,2.19,0.12,2.31
+Dewax,2.35,3.39,5.74
+Dewax,2.06,0.04,2.1
+Dewax,2.11,0.19,2.3
+Dewax,1.88,1.41,3.29
+Dewax,1.95,0.06,2.02
+Dewax,1.81,0.32,2.13
+Dewax,1.69,0.25,1.94
+Dewax,1.72,0.98,2.7
+Dewax,2.09,2.97,5.05
+Dewax,2.13,0.78,2.91
+Dewax,1.87,0.48,2.36
+Dewax,1.87,0.69,2.56
+Dewax,1.82,0.24,2.06
+Dewax,2.55,3.5,6.04
+Dewax,1.94,0.04,1.98
+Dewax,1.9,2.3,4.2
+Dewax,2.08,1.18,3.26
+Dewax,2.09,0.9,3.0
+Dewax,1.25,0.66,1.91
+Dewax,2.02,1.1,3.12
+Dewax,1.97,1.25,3.22
+Dewax,2.05,0.24,2.29
+Dewax,2.23,0.89,3.12
+Dewax,1.66,0.76,2.41
+Dewax,1.61,0.27,1.89
+Dewax,2.24,3.39,5.63
+Dewax,2.13,0.15,2.28
+Dewax,2.5,0.69,3.19
+Dewax,1.91,0.05,1.96
+Dewax,2.34,0.54,2.89
+Dewax,1.82,0.95,2.77
+Dewax,2.15,1.56,3.72
+Dewax,2.05,0.34,2.39
+Dewax,0.96,0.26,1.22
+Dewax,1.9,0.78,2.67
+Dewax,1.79,0.09,1.88
+Dewax,1.85,0.27,2.12
+Dewax,1.69,0.9,2.6
+Dewax,1.98,1.63,3.61
+Dewax,2.31,0.13,2.44
+Dewax,1.94,0.06,2.0
+Dewax,2.38,0.85,3.23
+Dewax,1.62,0.93,2.54
+Dewax,1.53,0.07,1.59
+Dewax,2.14,0.01,2.15
+Dewax,1.96,0.03,1.99
+Dewax,1.97,0.08,2.04
+Dewax,2.02,0.05,2.07
+Dewax,1.81,4.46,6.27
+Dewax,2.28,0.54,2.82
+Dewax,2.0,0.12,2.12
+Dewax,1.86,0.03,1.89
+Dewax,2.18,0.17,2.35
+Dewax,1.61,0.14,1.75
+Dewax,2.6,0.61,3.21
+Dewax,1.94,0.94,2.88
+Dewax,1.86,0.12,1.98
+Dewax,2.67,0.07,2.74
+Dewax,2.56,0.75,3.31
+Dewax,2.08,1.98,4.06
+Dewax,2.22,0.76,2.98
+Dewax,2.13,0.5,2.63
+Dewax,2.09,0.14,2.22
+Dewax,2.57,0.76,3.33
+Dewax,2.15,0.67,2.81
+Dewax,1.65,1.73,3.37
+Dewax,2.78,0.1,2.88
+Dewax,2.29,0.05,2.34
+Dewax,2.35,0.2,2.54
+Dewax,1.8,0.69,2.49
+Dewax,2.22,0.07,2.29
+Dewax,2.1,0.36,2.46
+Dewax,1.93,1.31,3.24
+Dewax,1.4,0.67,2.07
+Dewax,1.93,0.61,2.54
+Dewax,2.39,0.79,3.18
+Dewax,2.32,0.52,2.84
+Dewax,2.21,2.56,4.76
+Dewax,2.22,3.02,5.23
+Mold Preheat,4.31,3.11,7.42
+Mold Preheat,3.42,5.25,8.67
+Mold Preheat,4.19,1.7,5.89
+Mold Preheat,3.27,3.39,6.66
+Mold Preheat,3.68,0.32,4.0
+Mold Preheat,4.56,0.27,4.83
+Mold Preheat,4.27,2.39,6.65
+Mold Preheat,3.99,4.92,8.91
+Mold Preheat,4.12,0.41,4.53
+Mold Preheat,4.52,0.47,4.99
+Mold Preheat,3.88,1.76,5.64
+Mold Preheat,3.97,1.3,5.26
+Mold Preheat,3.98,0.36,4.34
+Mold Preheat,4.02,0.46,4.48
+Mold Preheat,4.34,1.75,6.09
+Mold Preheat,4.02,1.83,5.85
+Mold Preheat,4.43,0.38,4.81
+Mold Preheat,3.27,1.99,5.26
+Mold Preheat,3.06,1.59,4.64
+Mold Preheat,4.11,2.19,6.3
+Mold Preheat,3.56,0.45,4.01
+Mold Preheat,5.4,2.2,7.6
+Mold Preheat,2.98,0.91,3.88
+Mold Preheat,3.9,0.74,4.64
+Mold Preheat,3.15,0.3,3.45
+Mold Preheat,3.62,0.57,4.19
+Mold Preheat,5.15,1.54,6.69
+Mold Preheat,3.91,2.37,6.28
+Mold Preheat,3.9,0.7,4.59
+Mold Preheat,3.76,1.89,5.65
+Mold Preheat,3.69,0.16,3.85
+Mold Preheat,3.68,1.22,4.9
+Mold Preheat,4.47,2.17,6.64
+Mold Preheat,4.54,0.3,4.83
+Mold Preheat,3.58,5.44,9.02
+Mold Preheat,4.09,0.18,4.27
+Mold Preheat,4.59,1.61,6.2
+Mold Preheat,4.05,1.09,5.14
+Mold Preheat,4.18,1.48,5.66
+Mold Preheat,3.58,0.98,4.56
+Mold Preheat,3.63,5.61,9.24
+Mold Preheat,3.65,5.37,9.02
+Mold Preheat,4.01,7.11,11.13
+Mold Preheat,4.37,0.56,4.93
+Mold Preheat,3.38,1.0,4.38
+Mold Preheat,3.86,0.33,4.19
+Mold Preheat,4.41,0.92,5.33
+Mold Preheat,3.87,1.66,5.53
+Mold Preheat,4.11,1.33,5.43
+Mold Preheat,4.65,1.19,5.84
+Mold Preheat,4.16,2.05,6.22
+Mold Preheat,3.55,0.0,3.55
+Mold Preheat,4.04,2.92,6.96
+Mold Preheat,3.58,1.22,4.8
+Mold Preheat,4.35,0.13,4.48
+Mold Preheat,3.95,0.24,4.19
+Mold Preheat,3.66,0.23,3.89
+Mold Preheat,4.16,3.29,7.45
+Mold Preheat,4.26,0.81,5.07
+Mold Preheat,3.37,0.24,3.61
+Mold Preheat,3.33,1.58,4.92
+Mold Preheat,3.09,0.27,3.36
+Mold Preheat,4.05,0.11,4.16
+Mold Preheat,3.78,0.27,4.04
+Mold Preheat,3.53,2.75,6.29
+Mold Preheat,4.18,1.39,5.58
+Mold Preheat,2.74,1.78,4.52
+Mold Preheat,3.13,2.92,6.05
+Mold Preheat,4.47,0.34,4.81
+Mold Preheat,3.55,0.84,4.39
+Mold Preheat,2.83,1.0,3.83
+Mold Preheat,4.07,2.57,6.63
+Mold Preheat,3.64,1.2,4.84
+Mold Preheat,3.44,3.21,6.65
+Mold Preheat,4.06,3.34,7.4
+Mold Preheat,3.28,0.19,3.47
+Mold Preheat,3.54,0.31,3.85
+Mold Preheat,4.37,0.43,4.8
+Mold Preheat,5.25,0.35,5.6
+Mold Preheat,4.03,0.19,4.22
+Mold Preheat,3.66,1.24,4.9
+Mold Preheat,3.96,1.84,5.8
+Mold Preheat,3.2,0.39,3.6
+Mold Preheat,3.78,1.17,4.95
+Mold Preheat,3.77,0.02,3.78
+Mold Preheat,3.52,3.11,6.63
+Mold Preheat,3.8,0.42,4.22
+Mold Preheat,4.04,1.75,5.78
+Mold Preheat,3.96,0.16,4.12
+Mold Preheat,3.84,0.8,4.63
+Mold Preheat,3.98,1.52,5.5
+Mold Preheat,4.25,0.84,5.09
+Mold Preheat,4.47,1.55,6.02
+Mold Preheat,3.21,1.53,4.74
+Mold Preheat,3.75,0.34,4.09
+Mold Preheat,4.1,1.18,5.28
+Mold Preheat,4.51,2.29,6.8
+Mold Preheat,3.06,1.27,4.33
+Mold Preheat,3.16,1.53,4.68
+Mold Preheat,3.85,2.81,6.66
+Mold Preheat,4.42,0.86,5.28
+Mold Preheat,3.66,0.19,3.85
+Mold Preheat,4.13,2.94,7.07
+Mold Preheat,4.3,1.7,6.0
+Mold Preheat,4.06,1.61,5.66
+Mold Preheat,3.48,0.48,3.96
+Mold Preheat,4.5,0.03,4.54
+Mold Preheat,4.99,3.43,8.41
+Mold Preheat,5.21,0.26,5.47
+Mold Preheat,4.49,2.61,7.09
+Mold Preheat,3.56,1.93,5.49
+Mold Preheat,4.03,1.07,5.11
+Mold Preheat,4.29,2.76,7.05
+Mold Preheat,3.89,0.07,3.96
+Mold Preheat,3.56,0.03,3.59
+Mold Preheat,4.27,0.39,4.66
+Mold Preheat,4.07,2.27,6.34
+Mold Preheat,3.77,0.31,4.09
+Mold Preheat,3.8,1.32,5.12
+Mold Preheat,3.84,1.08,4.91
+Mold Preheat,4.08,1.03,5.11
+Mold Preheat,3.59,0.98,4.57
+Mold Preheat,3.85,1.07,4.92
+Mold Preheat,4.85,1.6,6.45
+Mold Preheat,4.18,0.53,4.71
+Mold Preheat,3.92,3.92,7.84
+Mold Preheat,3.72,3.01,6.73
+Mold Preheat,3.67,5.04,8.71
+Mold Preheat,4.36,2.65,7.01
+Mold Preheat,4.65,0.07,4.72
+Mold Preheat,3.78,0.09,3.87
+Mold Preheat,4.36,1.83,6.19
+Mold Preheat,4.34,0.69,5.03
+Mold Preheat,4.67,0.2,4.87
+Mold Preheat,4.73,0.08,4.81
+Mold Preheat,3.98,0.29,4.27
+Mold Preheat,3.6,3.37,6.97
+Mold Preheat,4.08,1.12,5.2
+Mold Preheat,3.98,0.19,4.17
+Mold Preheat,3.99,2.81,6.81
+Mold Preheat,3.97,1.49,5.47
+Mold Preheat,4.08,2.05,6.14
+Mold Preheat,3.48,2.98,6.46
+Mold Preheat,4.14,2.72,6.86
+Mold Preheat,3.26,0.47,3.73
+Mold Preheat,4.07,0.84,4.91
+Mold Preheat,4.6,3.49,8.09
+Mold Preheat,3.86,0.77,4.63
+Mold Preheat,4.51,0.19,4.7
+Mold Preheat,3.88,1.15,5.02
+Mold Preheat,3.53,0.04,3.57
+Mold Preheat,4.65,0.09,4.74
+Mold Preheat,4.02,0.26,4.29
+Mold Preheat,4.48,3.72,8.2
+Mold Preheat,3.92,1.41,5.33
+Mold Preheat,4.21,0.63,4.84
+Mold Preheat,3.99,2.57,6.55
+Mold Preheat,3.77,1.87,5.63
+Mold Preheat,3.8,1.01,4.81
+Mold Preheat,3.4,2.19,5.59
+Mold Preheat,3.04,0.86,3.9
+Mold Preheat,3.79,5.45,9.24
+Mold Preheat,3.94,0.35,4.29
+Mold Preheat,3.82,0.82,4.64
+Mold Preheat,3.35,0.89,4.24
+Mold Preheat,4.18,2.82,7.0
+Mold Preheat,4.69,4.51,9.2
+Mold Preheat,4.55,0.84,5.39
+Mold Preheat,4.24,1.14,5.39
+Mold Preheat,3.75,0.68,4.42
+Mold Preheat,4.35,1.33,5.68
+Mold Preheat,3.72,1.57,5.29
+Mold Preheat,3.26,0.66,3.92
+Mold Preheat,3.9,0.22,4.12
+Mold Preheat,4.33,1.37,5.7
+Mold Preheat,3.87,0.08,3.95
+Mold Preheat,4.38,2.28,6.66
+Mold Preheat,4.37,1.53,5.91
+Mold Preheat,3.95,0.63,4.58
+Mold Preheat,3.82,0.03,3.85
+Mold Preheat,3.92,3.4,7.32
+Mold Preheat,3.6,5.22,8.82
+Mold Preheat,3.58,4.08,7.66
+Mold Preheat,4.37,6.11,10.47
+Mold Preheat,4.42,0.68,5.09
+Mold Preheat,2.68,3.06,5.73
+Mold Preheat,3.68,0.97,4.66
+Mold Preheat,3.84,0.3,4.13
+Mold Preheat,4.96,2.6,7.55
+Mold Preheat,3.23,1.88,5.11
+Mold Preheat,4.29,0.14,4.43
+Mold Preheat,4.77,3.39,8.16
+Mold Preheat,4.49,4.53,9.02
+Mold Preheat,4.34,5.51,9.85
+Mold Preheat,4.52,3.45,7.97
+Mold Preheat,4.5,0.54,5.04
+Mold Preheat,3.86,4.79,8.65
+Mold Preheat,3.33,0.1,3.43
+Mold Preheat,4.92,1.69,6.6
+Mold Preheat,3.72,2.66,6.38
+Pour,0.51,0.42,0.93
+Pour,0.52,0.42,0.94
+Pour,0.56,0.14,0.71
+Pour,0.44,0.17,0.61
+Pour,0.63,0.18,0.81
+Pour,0.71,0.08,0.8
+Pour,0.56,0.08,0.65
+Pour,0.62,0.25,0.87
+Pour,0.58,0.19,0.77
+Pour,0.58,0.1,0.68
+Pour,0.76,0.98,1.75
+Pour,0.67,0.06,0.73
+Pour,0.61,0.05,0.66
+Pour,0.69,0.08,0.77
+Pour,0.65,0.03,0.68
+Pour,0.62,0.24,0.87
+Pour,0.45,0.05,0.5
+Pour,0.5,0.53,1.02
+Pour,0.51,0.06,0.57
+Pour,0.4,0.22,0.62
+Pour,0.47,0.09,0.55
+Pour,0.57,0.12,0.69
+Pour,0.45,0.06,0.52
+Pour,0.65,0.14,0.79
+Pour,0.75,0.13,0.87
+Pour,0.53,0.75,1.28
+Pour,0.61,0.46,1.07
+Pour,0.6,0.0,0.6
+Pour,0.46,0.35,0.81
+Pour,0.82,0.07,0.89
+Pour,0.52,0.07,0.59
+Pour,0.49,0.01,0.49
+Pour,0.74,0.46,1.2
+Pour,0.76,0.29,1.04
+Pour,0.47,0.32,0.8
+Pour,0.67,0.46,1.13
+Pour,0.76,0.37,1.13
+Pour,0.37,0.15,0.52
+Pour,0.49,0.21,0.7
+Pour,0.66,0.01,0.67
+Pour,0.49,0.18,0.67
+Pour,0.83,0.0,0.83
+Pour,0.49,0.47,0.95
+Pour,0.59,0.13,0.72
+Pour,0.61,0.11,0.72
+Pour,0.44,0.15,0.59
+Pour,0.61,0.59,1.2
+Pour,0.78,0.07,0.85
+Pour,0.71,0.37,1.08
+Pour,0.53,0.9,1.43
+Pour,0.71,0.21,0.92
+Pour,0.79,0.11,0.9
+Pour,0.45,0.22,0.67
+Pour,0.52,0.44,0.96
+Pour,0.55,0.02,0.57
+Pour,0.82,0.07,0.89
+Pour,0.57,0.52,1.09
+Pour,0.71,0.07,0.78
+Pour,0.65,0.2,0.84
+Pour,0.61,0.06,0.66
+Pour,0.54,0.01,0.55
+Pour,0.55,0.28,0.84
+Pour,0.66,0.02,0.68
+Pour,0.65,0.68,1.34
+Pour,0.52,0.02,0.55
+Pour,0.62,0.17,0.79
+Pour,0.52,0.0,0.52
+Pour,0.52,0.16,0.68
+Pour,0.62,0.07,0.69
+Pour,0.51,0.02,0.53
+Pour,0.63,0.15,0.79
+Pour,0.75,0.5,1.24
+Pour,0.44,0.16,0.6
+Pour,0.55,0.56,1.11
+Pour,0.47,0.38,0.86
+Pour,0.58,0.12,0.7
+Pour,0.54,0.1,0.64
+Pour,0.64,0.01,0.65
+Pour,0.67,0.08,0.75
+Pour,0.48,0.04,0.51
+Pour,0.61,0.02,0.63
+Pour,0.54,0.38,0.93
+Pour,0.46,0.24,0.7
+Pour,0.5,0.2,0.69
+Pour,0.63,0.51,1.14
+Pour,0.71,0.28,0.99
+Pour,0.67,0.0,0.68
+Pour,0.67,0.44,1.11
+Pour,0.64,0.03,0.67
+Pour,0.61,0.61,1.23
+Pour,0.56,0.03,0.59
+Pour,0.65,0.24,0.89
+Pour,0.72,0.45,1.17
+Pour,0.7,0.2,0.89
+Pour,0.67,0.14,0.81
+Pour,0.56,0.14,0.69
+Pour,0.73,0.85,1.57
+Pour,0.6,0.05,0.64
+Pour,0.56,0.56,1.13
+Pour,0.53,0.18,0.71
+Pour,0.52,0.04,0.56
+Pour,0.61,0.02,0.63
+Pour,0.87,0.15,1.01
+Pour,0.78,0.14,0.93
+Pour,0.78,0.8,1.58
+Pour,0.69,0.19,0.88
+Pour,0.57,0.56,1.13
+Pour,0.53,0.69,1.22
+Pour,0.67,0.53,1.2
+Pour,0.59,0.54,1.13
+Pour,0.69,0.27,0.95
+Pour,0.55,0.54,1.08
+Pour,0.47,0.24,0.71
+Pour,0.75,0.11,0.85
+Pour,0.65,0.06,0.71
+Pour,0.66,0.04,0.7
+Pour,0.6,0.07,0.67
+Pour,0.47,0.51,0.98
+Pour,0.39,0.49,0.88
+Pour,0.79,0.02,0.81
+Pour,0.63,0.28,0.91
+Pour,0.63,0.03,0.66
+Pour,0.67,0.02,0.69
+Pour,0.45,0.05,0.5
+Pour,0.66,0.1,0.76
+Pour,0.49,0.08,0.57
+Pour,0.81,0.33,1.14
+Pour,0.68,0.17,0.84
+Pour,0.51,0.25,0.76
+Pour,0.5,0.13,0.63
+Pour,0.69,0.26,0.95
+Pour,0.52,0.02,0.54
+Pour,0.49,0.15,0.64
+Pour,0.58,0.03,0.61
+Pour,0.68,0.07,0.75
+Pour,0.77,1.17,1.95
+Pour,0.44,0.11,0.55
+Pour,0.66,0.59,1.25
+Pour,0.54,0.2,0.74
+Pour,0.54,0.1,0.64
+Pour,0.52,0.43,0.95
+Pour,0.43,0.44,0.87
+Pour,0.68,0.0,0.69
+Pour,0.78,0.2,0.98
+Pour,0.56,0.08,0.64
+Pour,0.57,0.04,0.61
+Pour,0.53,0.21,0.74
+Pour,0.5,0.23,0.72
+Pour,0.41,0.74,1.15
+Pour,0.63,0.08,0.72
+Pour,0.45,0.01,0.46
+Pour,0.42,0.13,0.55
+Pour,0.55,0.4,0.95
+Pour,0.58,0.3,0.88
+Pour,0.5,0.56,1.07
+Pour,0.51,0.05,0.56
+Pour,0.62,0.36,0.97
+Pour,0.72,0.02,0.75
+Pour,0.46,0.17,0.64
+Pour,0.38,0.24,0.62
+Pour,0.5,0.11,0.61
+Pour,0.39,0.29,0.67
+Pour,0.51,0.67,1.18
+Pour,0.53,0.22,0.74
+Pour,0.57,0.15,0.72
+Pour,0.5,0.23,0.73
+Pour,0.6,0.39,0.99
+Pour,0.45,0.26,0.71
+Pour,0.51,0.28,0.8
+Pour,0.42,0.15,0.56
+Pour,0.54,0.09,0.62
+Pour,0.85,0.14,0.99
+Pour,0.55,0.05,0.6
+Pour,0.41,0.02,0.43
+Pour,0.53,0.41,0.94
+Pour,0.64,0.11,0.75
+Pour,0.55,0.04,0.59
+Pour,0.45,0.45,0.9
+Pour,0.6,0.04,0.64
+Pour,0.47,0.01,0.48
+Pour,0.63,0.02,0.65
+Pour,0.74,0.54,1.28
+Pour,0.47,0.16,0.63
+Pour,0.41,0.06,0.47
+Pour,0.44,0.43,0.87
+Pour,0.63,0.42,1.05
+Pour,0.86,1.19,2.05
+Pour,0.41,0.38,0.79
+Pour,0.43,0.39,0.82
+Pour,0.73,0.25,0.97
+Pour,0.4,0.14,0.53
+Pour,0.46,0.52,0.98
+Pour,0.73,0.24,0.97
+Pour,0.56,0.16,0.72
+Pour,0.5,0.04,0.53
+Pour,0.67,0.82,1.49
+Pour,0.44,0.07,0.52
+Pour,0.51,0.23,0.75
+Pour,0.69,0.15,0.83
+Pour,0.58,0.03,0.61
+Cooling,7.41,7.99,15.41
+Cooling,7.29,12.36,19.65
+Cooling,7.51,12.78,20.28
+Cooling,6.61,6.01,12.62
+Cooling,6.24,6.75,12.99
+Cooling,5.87,0.1,5.97
+Cooling,8.5,1.81,10.31
+Cooling,8.43,0.27,8.7
+Cooling,9.39,3.75,13.13
+Cooling,7.37,2.05,9.43
+Cooling,8.39,4.31,12.7
+Cooling,8.91,5.8,14.71
+Cooling,7.27,4.51,11.78
+Cooling,7.03,5.66,12.68
+Cooling,8.23,0.9,9.13
+Cooling,8.29,1.3,9.59
+Cooling,7.27,4.21,11.47
+Cooling,7.75,1.7,9.45
+Cooling,9.48,0.03,9.5
+Cooling,8.85,0.16,9.01
+Cooling,9.22,2.08,11.3
+Cooling,6.71,8.94,15.65
+Cooling,7.54,0.39,7.93
+Cooling,7.72,0.82,8.53
+Cooling,7.38,2.66,10.04
+Cooling,6.66,0.92,7.58
+Cooling,5.19,1.18,6.37
+Cooling,9.95,1.82,11.77
+Cooling,8.52,0.23,8.75
+Cooling,7.86,4.66,12.53
+Cooling,7.05,6.55,13.6
+Cooling,7.43,2.03,9.45
+Cooling,5.36,1.66,7.01
+Cooling,8.32,3.78,12.1
+Cooling,8.75,2.38,11.13
+Cooling,8.67,3.87,12.55
+Cooling,8.7,0.69,9.39
+Cooling,9.07,3.98,13.05
+Cooling,7.27,3.32,10.6
+Cooling,8.27,6.66,14.92
+Cooling,6.96,3.02,9.98
+Cooling,7.75,0.87,8.63
+Cooling,9.98,2.28,12.26
+Cooling,8.53,1.18,9.71
+Cooling,7.99,2.47,10.46
+Cooling,7.47,1.32,8.79
+Cooling,8.95,1.46,10.41
+Cooling,7.12,0.42,7.54
+Cooling,9.74,1.18,10.92
+Cooling,7.72,0.45,8.17
+Cooling,8.58,0.34,8.92
+Cooling,5.98,0.86,6.83
+Cooling,7.89,0.25,8.14
+Cooling,7.3,0.04,7.35
+Cooling,6.67,2.74,9.41
+Cooling,8.93,1.7,10.63
+Cooling,8.35,6.12,14.47
+Cooling,8.68,2.34,11.02
+Cooling,8.54,4.36,12.9
+Cooling,9.3,3.69,13.0
+Cooling,7.29,5.25,12.54
+Cooling,7.62,0.26,7.88
+Cooling,8.02,0.65,8.66
+Cooling,8.0,4.35,12.36
+Cooling,7.99,2.72,10.72
+Cooling,8.63,1.47,10.09
+Cooling,10.04,6.56,16.61
+Cooling,7.08,9.74,16.82
+Cooling,9.48,4.27,13.75
+Cooling,8.23,0.91,9.13
+Cooling,9.94,0.44,10.38
+Cooling,7.6,6.89,14.49
+Cooling,6.93,6.52,13.46
+Cooling,5.77,0.6,6.37
+Cooling,9.81,5.06,14.87
+Cooling,9.86,0.96,10.82
+Cooling,6.85,0.31,7.16
+Cooling,8.07,1.85,9.93
+Cooling,7.88,1.92,9.8
+Cooling,8.84,6.41,15.25
+Cooling,7.91,0.57,8.49
+Cooling,6.16,5.99,12.15
+Cooling,7.91,1.04,8.95
+Cooling,7.52,0.95,8.47
+Cooling,7.32,7.42,14.74
+Cooling,6.67,3.95,10.62
+Cooling,7.86,6.05,13.91
+Cooling,8.18,1.8,9.97
+Cooling,8.05,2.14,10.19
+Cooling,8.28,8.3,16.58
+Cooling,9.39,2.05,11.45
+Cooling,7.34,4.23,11.57
+Cooling,7.35,1.36,8.7
+Cooling,6.43,6.5,12.93
+Cooling,8.14,5.52,13.66
+Cooling,8.26,1.4,9.66
+Cooling,8.45,3.25,11.7
+Cooling,7.15,0.98,8.13
+Cooling,7.76,5.4,13.16
+Cooling,8.7,0.44,9.14
+Cooling,8.81,0.89,9.69
+Cooling,6.5,10.03,16.53
+Cooling,9.69,2.64,12.32
+Cooling,8.38,1.67,10.05
+Cooling,8.99,0.28,9.27
+Cooling,7.81,0.74,8.55
+Cooling,9.4,3.15,12.54
+Cooling,7.36,2.17,9.53
+Cooling,8.52,0.31,8.83
+Cooling,9.08,5.86,14.94
+Cooling,8.82,4.78,13.6
+Cooling,6.61,7.29,13.91
+Cooling,9.19,0.05,9.23
+Cooling,9.5,0.28,9.78
+Cooling,9.29,2.87,12.16
+Cooling,7.53,0.86,8.39
+Cooling,7.91,7.81,15.72
+Cooling,6.95,0.17,7.12
+Cooling,7.3,0.92,8.22
+Cooling,7.94,9.84,17.78
+Cooling,8.26,0.04,8.3
+Cooling,7.44,1.6,9.04
+Cooling,8.27,0.89,9.17
+Cooling,7.02,0.01,7.03
+Cooling,7.3,7.64,14.94
+Cooling,9.35,1.04,10.39
+Cooling,6.78,0.51,7.3
+Cooling,9.19,11.78,20.97
+Cooling,9.15,0.92,10.07
+Cooling,8.3,1.6,9.9
+Cooling,10.27,1.61,11.88
+Cooling,7.59,0.91,8.5
+Cooling,8.4,0.91,9.31
+Cooling,6.75,1.62,8.37
+Cooling,9.44,1.49,10.94
+Cooling,7.92,1.12,9.04
+Cooling,7.35,1.4,8.75
+Cooling,8.02,0.47,8.49
+Cooling,7.36,0.19,7.55
+Cooling,6.56,5.11,11.67
+Cooling,7.08,1.35,8.43
+Cooling,7.23,1.47,8.7
+Cooling,7.4,1.98,9.38
+Cooling,8.86,2.21,11.07
+Cooling,9.01,3.13,12.14
+Cooling,7.31,4.08,11.39
+Cooling,7.69,3.46,11.16
+Cooling,7.8,0.79,8.59
+Cooling,9.62,0.35,9.96
+Cooling,7.27,0.44,7.71
+Cooling,7.4,0.8,8.2
+Cooling,9.97,2.32,12.29
+Cooling,6.64,0.61,7.24
+Cooling,9.7,3.34,13.04
+Cooling,8.34,1.01,9.35
+Cooling,7.17,0.0,7.17
+Cooling,6.08,0.83,6.91
+Cooling,7.65,2.21,9.86
+Cooling,6.74,4.6,11.34
+Cooling,7.0,0.28,7.28
+Cooling,6.56,1.08,7.63
+Cooling,7.42,1.87,9.28
+Cooling,8.22,0.69,8.91
+Cooling,8.6,2.72,11.32
+Cooling,8.6,3.47,12.07
+Cooling,7.9,5.74,13.64
+Cooling,8.31,0.67,8.98
+Cooling,7.72,11.96,19.67
+Cooling,8.96,2.53,11.49
+Cooling,6.86,2.08,8.94
+Cooling,6.06,1.16,7.21
+Cooling,6.81,2.91,9.72
+Cooling,8.74,2.32,11.06
+Cooling,9.23,5.44,14.66
+Cooling,6.83,1.55,8.38
+Cooling,7.09,2.77,9.85
+Cooling,8.82,0.17,9.0
+Cooling,6.39,1.81,8.2
+Cooling,7.56,5.39,12.95
+Cooling,9.34,1.32,10.66
+Cooling,7.28,0.68,7.96
+Cooling,8.26,2.04,10.3
+Cooling,6.65,6.55,13.2
+Cooling,7.74,1.07,8.81
+Cooling,6.14,17.27,23.41
+Cooling,7.17,1.36,8.53
+Cooling,8.43,0.55,8.98
+Cooling,7.75,8.01,15.76
+Cooling,6.55,0.93,7.47
+Cooling,8.36,3.97,12.33
+Cooling,8.97,0.43,9.39
+Cooling,7.4,0.92,8.32
+Cooling,9.01,1.07,10.08
+Cooling,7.84,5.94,13.78
+Cooling,8.36,1.57,9.93
+Cooling,6.91,6.37,13.28
+Cooling,9.25,0.88,10.13
+Cooling,7.95,8.57,16.52
+Cooling,8.1,3.0,11.1
+Cooling,10.29,7.97,18.25
+Knockout,1.13,0.17,1.3
+Knockout,1.27,2.16,3.43
+Knockout,1.74,0.09,1.82
+Knockout,1.4,0.34,1.74
+Knockout,1.62,0.68,2.3
+Knockout,1.53,0.0,1.53
+Knockout,1.71,0.12,1.84
+Knockout,1.87,0.58,2.45
+Knockout,1.05,0.79,1.83
+Knockout,1.72,0.44,2.15
+Knockout,1.51,0.26,1.77
+Knockout,0.98,0.17,1.15
+Knockout,2.02,0.09,2.11
+Knockout,1.85,1.59,3.44
+Knockout,1.34,0.06,1.4
+Knockout,1.44,1.13,2.57
+Knockout,1.09,0.7,1.79
+Knockout,1.08,0.77,1.85
+Knockout,1.42,0.74,2.15
+Knockout,2.05,1.55,3.6
+Knockout,1.57,1.27,2.83
+Knockout,1.18,2.02,3.21
+Knockout,1.78,0.1,1.88
+Knockout,1.79,0.51,2.3
+Knockout,1.83,0.8,2.63
+Knockout,0.96,0.12,1.08
+Knockout,1.38,0.62,1.99
+Knockout,1.2,0.67,1.88
+Knockout,1.82,0.8,2.62
+Knockout,1.6,0.42,2.02
+Knockout,1.93,1.29,3.22
+Knockout,1.47,1.13,2.61
+Knockout,2.31,0.93,3.24
+Knockout,1.46,0.52,1.98
+Knockout,1.61,0.41,2.02
+Knockout,1.42,2.41,3.83
+Knockout,0.86,0.14,1.0
+Knockout,1.8,0.25,2.05
+Knockout,1.86,0.14,2.0
+Knockout,1.61,0.04,1.65
+Knockout,1.7,0.07,1.78
+Knockout,1.46,0.93,2.39
+Knockout,1.24,0.01,1.25
+Knockout,1.71,0.15,1.85
+Knockout,1.57,0.48,2.05
+Knockout,2.02,0.32,2.33
+Knockout,1.38,0.12,1.51
+Knockout,1.36,0.74,2.09
+Knockout,1.37,0.11,1.48
+Knockout,1.68,0.17,1.85
+Knockout,1.29,0.65,1.94
+Knockout,1.61,0.17,1.77
+Knockout,2.13,0.82,2.95
+Knockout,1.5,1.38,2.88
+Knockout,1.22,0.77,1.99
+Knockout,1.59,0.45,2.05
+Knockout,1.57,0.1,1.68
+Knockout,1.87,0.93,2.8
+Knockout,1.14,0.36,1.5
+Knockout,1.59,1.59,3.18
+Knockout,1.31,0.0,1.31
+Knockout,1.92,0.15,2.08
+Knockout,1.37,1.28,2.65
+Knockout,1.15,0.12,1.27
+Knockout,1.28,0.49,1.77
+Knockout,1.47,0.19,1.66
+Knockout,1.19,0.82,2.01
+Knockout,1.39,0.29,1.67
+Knockout,1.41,2.46,3.87
+Knockout,1.25,0.75,2.0
+Knockout,2.13,1.42,3.55
+Knockout,2.04,1.24,3.28
+Knockout,1.75,0.81,2.56
+Knockout,1.67,0.22,1.89
+Knockout,1.61,1.42,3.03
+Knockout,1.31,2.3,3.61
+Knockout,1.54,0.58,2.12
+Knockout,1.36,0.28,1.64
+Knockout,0.96,1.55,2.51
+Knockout,2.15,0.21,2.36
+Knockout,1.66,0.2,1.86
+Knockout,1.2,0.03,1.24
+Knockout,1.32,2.94,4.25
+Knockout,1.81,0.22,2.04
+Knockout,1.14,0.46,1.59
+Knockout,1.56,0.18,1.74
+Knockout,1.55,0.29,1.84
+Knockout,2.07,0.04,2.11
+Knockout,1.43,0.0,1.43
+Knockout,2.0,1.01,3.01
+Knockout,1.33,0.19,1.52
+Knockout,1.57,0.04,1.61
+Knockout,1.5,0.28,1.78
+Knockout,1.83,0.6,2.43
+Knockout,1.73,1.06,2.79
+Knockout,1.88,0.54,2.42
+Knockout,1.13,1.94,3.06
+Knockout,1.65,0.15,1.81
+Knockout,1.87,0.64,2.52
+Knockout,1.31,0.23,1.54
+Knockout,1.37,0.36,1.73
+Knockout,1.33,0.23,1.55
+Knockout,1.29,0.94,2.23
+Knockout,0.96,0.26,1.22
+Knockout,1.6,1.23,2.83
+Knockout,1.01,0.72,1.73
+Knockout,1.53,0.7,2.24
+Knockout,1.49,0.09,1.58
+Knockout,1.68,0.38,2.06
+Knockout,1.58,0.78,2.37
+Knockout,1.11,0.37,1.48
+Knockout,2.0,0.22,2.22
+Knockout,1.22,0.07,1.29
+Knockout,1.47,0.35,1.82
+Knockout,1.82,0.24,2.06
+Knockout,1.46,0.68,2.14
+Knockout,1.18,0.74,1.92
+Knockout,1.17,0.5,1.66
+Knockout,1.41,1.12,2.53
+Knockout,0.81,0.82,1.63
+Knockout,1.19,0.27,1.46
+Knockout,1.67,0.49,2.15
+Knockout,1.83,1.36,3.2
+Knockout,1.85,0.22,2.08
+Knockout,2.09,0.51,2.6
+Knockout,1.3,1.12,2.42
+Knockout,1.16,0.17,1.33
+Knockout,0.95,0.61,1.56
+Knockout,1.79,0.04,1.83
+Knockout,0.84,0.73,1.58
+Knockout,2.0,0.17,2.18
+Knockout,1.57,1.16,2.73
+Knockout,1.45,0.06,1.51
+Knockout,1.82,0.42,2.24
+Knockout,1.84,1.37,3.21
+Knockout,2.01,1.5,3.51
+Knockout,1.95,0.08,2.03
+Knockout,1.89,0.3,2.19
+Knockout,1.14,0.78,1.92
+Knockout,1.11,0.4,1.51
+Knockout,1.0,0.11,1.11
+Knockout,1.51,0.32,1.82
+Knockout,1.42,2.25,3.67
+Knockout,1.89,0.0,1.89
+Knockout,1.57,0.59,2.15
+Knockout,1.69,1.1,2.79
+Knockout,1.39,1.41,2.8
+Knockout,1.53,1.24,2.77
+Knockout,1.18,1.03,2.21
+Knockout,1.52,0.45,1.97
+Knockout,1.4,0.55,1.95
+Knockout,1.4,0.19,1.59
+Knockout,1.06,0.92,1.97
+Knockout,1.35,0.19,1.54
+Knockout,1.65,0.21,1.86
+Knockout,1.71,0.96,2.68
+Knockout,1.24,0.05,1.29
+Knockout,0.99,0.5,1.5
+Knockout,1.64,0.48,2.12
+Knockout,1.85,1.37,3.22
+Knockout,1.52,0.37,1.89
+Knockout,1.5,0.62,2.12
+Knockout,1.52,0.23,1.75
+Knockout,1.45,0.08,1.53
+Knockout,1.51,0.53,2.04
+Knockout,1.14,0.73,1.87
+Knockout,1.83,0.04,1.87
+Knockout,1.45,0.08,1.53
+Knockout,1.41,0.85,2.25
+Knockout,1.44,0.27,1.71
+Knockout,1.92,0.48,2.39
+Knockout,1.66,0.46,2.12
+Knockout,2.05,0.45,2.51
+Knockout,1.36,0.31,1.67
+Knockout,1.63,0.99,2.62
+Knockout,1.53,0.36,1.89
+Knockout,1.04,0.44,1.48
+Knockout,1.96,0.79,2.75
+Knockout,1.59,0.73,2.31
+Knockout,1.14,0.65,1.79
+Knockout,1.73,0.37,2.1
+Knockout,1.13,0.17,1.3
+Knockout,1.52,1.19,2.71
+Knockout,1.8,0.32,2.13
+Knockout,1.84,0.24,2.08
+Knockout,1.64,1.17,2.81
+Knockout,1.16,0.81,1.97
+Knockout,1.33,0.24,1.57
+Knockout,1.76,0.05,1.8
+Knockout,0.89,0.03,0.92
+Knockout,1.55,0.7,2.26
+Knockout,0.96,0.17,1.14
+Knockout,0.98,0.24,1.22
+Knockout,1.09,0.3,1.39
+Knockout,1.07,0.37,1.45
+Knockout,1.48,0.18,1.66
+Knockout,1.5,2.43,3.93
+Knockout,1.73,0.15,1.88
+Knockout,1.78,0.26,2.04
+Knockout,1.09,0.27,1.36
+Cut-off,1.16,0.08,1.23
+Cut-off,1.07,0.21,1.28
+Cut-off,1.03,0.18,1.21
+Cut-off,1.27,0.39,1.67
+Cut-off,1.21,0.06,1.28
+Cut-off,0.7,0.1,0.8
+Cut-off,1.05,1.16,2.21
+Cut-off,0.8,0.1,0.9
+Cut-off,1.02,0.08,1.1
+Cut-off,0.78,0.31,1.1
+Cut-off,0.92,1.33,2.25
+Cut-off,1.0,0.09,1.09
+Cut-off,0.95,0.07,1.02
+Cut-off,1.17,0.05,1.21
+Cut-off,0.55,1.0,1.55
+Cut-off,1.03,0.09,1.12
+Cut-off,0.83,0.82,1.66
+Cut-off,1.12,0.29,1.4
+Cut-off,0.95,0.08,1.03
+Cut-off,1.25,0.31,1.56
+Cut-off,0.84,0.94,1.77
+Cut-off,0.88,0.32,1.2
+Cut-off,1.12,0.0,1.12
+Cut-off,1.13,0.87,2.0
+Cut-off,0.85,0.1,0.95
+Cut-off,1.18,0.02,1.2
+Cut-off,1.02,0.35,1.37
+Cut-off,1.16,0.11,1.27
+Cut-off,0.88,0.12,1.0
+Cut-off,0.75,0.78,1.53
+Cut-off,1.11,0.27,1.38
+Cut-off,0.8,0.45,1.26
+Cut-off,0.91,0.31,1.22
+Cut-off,1.2,0.28,1.47
+Cut-off,1.23,0.0,1.24
+Cut-off,0.91,0.15,1.05
+Cut-off,1.01,0.47,1.49
+Cut-off,1.01,0.17,1.18
+Cut-off,0.91,0.05,0.96
+Cut-off,0.95,0.36,1.31
+Cut-off,1.04,0.17,1.21
+Cut-off,0.9,0.02,0.92
+Cut-off,0.85,0.18,1.04
+Cut-off,0.69,0.29,0.97
+Cut-off,0.55,0.92,1.47
+Cut-off,1.01,0.1,1.11
+Cut-off,1.13,0.11,1.25
+Cut-off,0.6,0.07,0.67
+Cut-off,1.06,0.02,1.08
+Cut-off,1.05,0.03,1.08
+Cut-off,0.92,0.13,1.05
+Cut-off,1.01,1.44,2.45
+Cut-off,0.95,0.0,0.95
+Cut-off,0.82,0.36,1.18
+Cut-off,1.01,0.63,1.64
+Cut-off,0.57,0.32,0.89
+Cut-off,0.93,0.55,1.48
+Cut-off,1.41,0.37,1.78
+Cut-off,1.08,0.11,1.18
+Cut-off,1.11,0.3,1.41
+Cut-off,0.61,0.09,0.7
+Cut-off,0.95,0.09,1.04
+Cut-off,0.75,0.14,0.89
+Cut-off,1.22,0.15,1.37
+Cut-off,1.01,0.13,1.13
+Cut-off,1.22,0.64,1.86
+Cut-off,0.96,0.47,1.42
+Cut-off,1.33,0.54,1.86
+Cut-off,1.08,0.33,1.41
+Cut-off,1.02,0.38,1.4
+Cut-off,1.02,0.11,1.14
+Cut-off,1.14,0.25,1.39
+Cut-off,0.8,0.1,0.89
+Cut-off,0.91,0.03,0.93
+Cut-off,0.89,0.57,1.46
+Cut-off,0.86,0.18,1.04
+Cut-off,1.37,0.32,1.69
+Cut-off,1.26,0.2,1.46
+Cut-off,1.15,0.12,1.27
+Cut-off,0.99,0.05,1.04
+Cut-off,1.2,0.43,1.63
+Cut-off,1.08,0.54,1.62
+Cut-off,1.29,0.17,1.46
+Cut-off,1.13,0.2,1.32
+Cut-off,1.13,0.03,1.16
+Cut-off,1.12,0.01,1.13
+Cut-off,0.88,0.08,0.95
+Cut-off,1.05,0.09,1.14
+Cut-off,0.71,0.08,0.79
+Cut-off,1.01,0.0,1.01
+Cut-off,0.9,0.34,1.23
+Cut-off,1.08,0.14,1.22
+Cut-off,0.9,0.12,1.02
+Cut-off,0.79,0.23,1.01
+Cut-off,0.94,0.08,1.02
+Cut-off,1.02,0.03,1.06
+Cut-off,1.01,0.69,1.7
+Cut-off,1.09,0.12,1.22
+Cut-off,1.05,0.21,1.26
+Cut-off,1.16,0.37,1.53
+Cut-off,0.92,0.31,1.23
+Cut-off,0.85,0.41,1.26
+Cut-off,1.06,1.45,2.51
+Cut-off,1.24,0.29,1.53
+Cut-off,0.91,0.12,1.03
+Cut-off,0.73,0.51,1.24
+Cut-off,1.15,0.32,1.47
+Cut-off,1.22,0.21,1.42
+Cut-off,1.05,0.56,1.61
+Cut-off,0.81,1.26,2.07
+Cut-off,0.65,0.8,1.45
+Cut-off,0.99,0.23,1.22
+Cut-off,1.01,0.3,1.31
+Cut-off,0.78,0.1,0.89
+Cut-off,1.0,0.53,1.53
+Cut-off,1.26,1.31,2.58
+Cut-off,0.9,0.22,1.12
+Cut-off,1.08,0.27,1.36
+Cut-off,1.14,0.03,1.17
+Cut-off,0.91,0.82,1.74
+Cut-off,1.13,0.23,1.36
+Cut-off,1.03,0.05,1.08
+Cut-off,0.99,0.3,1.29
+Cut-off,1.04,1.37,2.41
+Cut-off,1.35,0.5,1.84
+Cut-off,1.17,0.56,1.73
+Cut-off,1.02,0.31,1.32
+Cut-off,1.15,0.72,1.87
+Cut-off,1.21,0.15,1.36
+Cut-off,0.74,0.57,1.31
+Cut-off,0.74,0.96,1.7
+Cut-off,0.94,0.56,1.5
+Cut-off,1.26,0.13,1.39
+Cut-off,0.89,1.87,2.76
+Cut-off,1.33,0.04,1.37
+Cut-off,1.33,0.38,1.71
+Cut-off,1.5,0.08,1.58
+Cut-off,1.34,0.31,1.66
+Cut-off,1.12,0.37,1.49
+Cut-off,0.88,0.9,1.78
+Cut-off,0.68,0.48,1.16
+Cut-off,0.76,0.21,0.97
+Cut-off,0.87,0.05,0.92
+Cut-off,0.55,0.09,0.64
+Cut-off,1.32,0.36,1.67
+Cut-off,1.3,0.09,1.39
+Cut-off,1.16,0.79,1.95
+Cut-off,0.98,0.33,1.3
+Cut-off,1.06,0.21,1.27
+Cut-off,1.13,0.6,1.73
+Cut-off,1.16,0.16,1.32
+Cut-off,0.91,0.63,1.54
+Cut-off,1.09,0.08,1.17
+Cut-off,0.95,0.51,1.46
+Cut-off,0.94,0.16,1.11
+Cut-off,0.99,0.09,1.08
+Cut-off,0.67,0.03,0.7
+Cut-off,1.08,1.22,2.3
+Cut-off,1.16,0.16,1.31
+Cut-off,0.72,0.13,0.85
+Cut-off,0.75,0.42,1.16
+Cut-off,1.08,0.04,1.12
+Cut-off,0.85,0.14,0.99
+Cut-off,0.93,0.46,1.39
+Cut-off,0.89,0.55,1.44
+Cut-off,1.08,0.04,1.12
+Cut-off,1.0,1.42,2.42
+Cut-off,0.7,1.45,2.15
+Cut-off,1.28,0.32,1.6
+Cut-off,0.98,0.56,1.54
+Cut-off,1.26,0.23,1.49
+Cut-off,1.2,0.72,1.92
+Cut-off,1.36,0.82,2.17
+Cut-off,0.91,0.43,1.33
+Cut-off,1.63,0.49,2.13
+Cut-off,1.22,0.04,1.26
+Cut-off,0.73,0.06,0.79
+Cut-off,1.29,0.97,2.27
+Cut-off,0.37,0.31,0.69
+Cut-off,0.97,0.39,1.36
+Cut-off,1.1,0.17,1.27
+Cut-off,0.76,0.5,1.26
+Cut-off,0.82,0.14,0.96
+Cut-off,1.27,0.19,1.45
+Cut-off,0.81,0.48,1.29
+Cut-off,1.04,0.24,1.27
+Cut-off,1.01,0.34,1.35
+Cut-off,0.75,0.17,0.92
+Cut-off,1.06,0.43,1.49
+Cut-off,1.12,0.02,1.14
+Cut-off,1.24,0.44,1.68
+Cut-off,1.0,0.11,1.11
+Cut-off,0.93,0.99,1.92
+Cut-off,1.19,0.29,1.48
+Cut-off,1.1,0.14,1.24
+Cut-off,1.26,0.42,1.68
+Cut-off,0.63,0.09,0.71
+Cut-off,0.98,0.56,1.55
+Cut-off,1.09,0.0,1.09
+Cut-off,1.08,0.75,1.83
+Grinding,2.96,0.23,3.19
+Grinding,2.68,2.85,5.53
+Grinding,2.49,0.7,3.2
+Grinding,4.24,0.62,4.86
+Grinding,4.3,2.04,6.34
+Grinding,2.48,0.33,2.81
+Grinding,3.24,2.29,5.53
+Grinding,3.22,3.41,6.63
+Grinding,3.75,3.14,6.88
+Grinding,2.52,0.11,2.64
+Grinding,3.09,0.95,4.04
+Grinding,2.97,0.12,3.09
+Grinding,3.28,0.8,4.08
+Grinding,3.29,2.5,5.79
+Grinding,2.5,0.29,2.79
+Grinding,2.31,0.62,2.93
+Grinding,2.64,1.41,4.05
+Grinding,2.41,0.67,3.08
+Grinding,2.94,0.18,3.12
+Grinding,3.79,1.63,5.41
+Grinding,2.94,0.26,3.2
+Grinding,2.17,0.66,2.83
+Grinding,3.3,0.16,3.45
+Grinding,2.78,0.31,3.09
+Grinding,3.45,1.19,4.64
+Grinding,2.56,0.18,2.73
+Grinding,3.54,0.72,4.27
+Grinding,3.17,1.14,4.3
+Grinding,1.92,0.0,1.92
+Grinding,3.24,0.25,3.49
+Grinding,2.92,0.42,3.35
+Grinding,3.24,1.14,4.38
+Grinding,2.86,0.3,3.16
+Grinding,3.29,2.79,6.08
+Grinding,3.37,0.98,4.35
+Grinding,3.5,0.67,4.16
+Grinding,2.39,2.04,4.43
+Grinding,3.3,0.65,3.94
+Grinding,3.36,0.09,3.45
+Grinding,3.29,1.35,4.65
+Grinding,2.5,1.59,4.09
+Grinding,2.31,3.79,6.1
+Grinding,2.69,1.48,4.16
+Grinding,3.46,0.48,3.93
+Grinding,2.49,2.16,4.64
+Grinding,2.92,1.25,4.17
+Grinding,2.82,0.17,2.98
+Grinding,3.24,2.03,5.27
+Grinding,2.48,0.02,2.5
+Grinding,3.22,0.94,4.16
+Grinding,3.06,0.67,3.73
+Grinding,3.29,0.4,3.68
+Grinding,2.51,0.28,2.79
+Grinding,2.55,0.08,2.63
+Grinding,2.61,0.2,2.81
+Grinding,3.55,1.11,4.66
+Grinding,3.09,0.26,3.35
+Grinding,3.21,0.64,3.86
+Grinding,2.46,0.72,3.18
+Grinding,2.21,0.98,3.19
+Grinding,2.37,0.65,3.02
+Grinding,2.99,0.55,3.54
+Grinding,3.06,2.41,5.47
+Grinding,3.1,1.48,4.59
+Grinding,2.98,1.81,4.79
+Grinding,2.66,1.07,3.73
+Grinding,3.31,1.84,5.14
+Grinding,2.57,2.0,4.57
+Grinding,2.38,1.91,4.29
+Grinding,2.88,1.24,4.12
+Grinding,2.68,0.42,3.1
+Grinding,2.27,2.96,5.23
+Grinding,3.12,0.06,3.18
+Grinding,3.1,1.3,4.39
+Grinding,3.45,2.66,6.11
+Grinding,2.58,1.74,4.32
+Grinding,2.9,1.17,4.08
+Grinding,3.4,0.77,4.17
+Grinding,3.12,1.48,4.6
+Grinding,3.62,1.2,4.82
+Grinding,3.04,0.14,3.18
+Grinding,3.56,3.57,7.13
+Grinding,3.73,1.36,5.09
+Grinding,3.14,0.68,3.82
+Grinding,3.01,0.25,3.26
+Grinding,3.04,4.59,7.63
+Grinding,3.14,2.18,5.31
+Grinding,2.61,2.12,4.73
+Grinding,2.99,0.11,3.11
+Grinding,2.97,0.36,3.33
+Grinding,3.36,0.46,3.82
+Grinding,3.15,2.11,5.26
+Grinding,3.56,0.11,3.67
+Grinding,3.45,0.52,3.96
+Grinding,3.3,1.71,5.01
+Grinding,2.21,0.14,2.34
+Grinding,2.93,0.14,3.07
+Grinding,2.46,0.92,3.38
+Grinding,3.13,0.11,3.24
+Grinding,2.8,0.67,3.48
+Grinding,3.39,0.67,4.06
+Grinding,2.93,0.09,3.02
+Grinding,3.87,0.49,4.36
+Grinding,3.17,1.13,4.29
+Grinding,2.9,0.22,3.12
+Grinding,2.5,0.38,2.88
+Grinding,3.64,0.45,4.09
+Grinding,3.36,5.5,8.86
+Grinding,2.62,2.43,5.05
+Grinding,2.77,1.26,4.03
+Grinding,3.52,9.1,12.62
+Grinding,3.32,0.4,3.72
+Grinding,3.91,0.19,4.1
+Grinding,3.21,0.44,3.65
+Grinding,2.46,1.52,3.98
+Grinding,2.4,1.08,3.47
+Grinding,3.05,3.73,6.79
+Grinding,3.91,0.88,4.8
+Grinding,2.21,0.07,2.28
+Grinding,3.41,2.03,5.43
+Grinding,2.68,1.03,3.71
+Grinding,3.42,2.02,5.44
+Grinding,3.22,1.36,4.58
+Grinding,3.06,0.99,4.05
+Grinding,3.01,4.09,7.1
+Grinding,3.08,0.01,3.1
+Grinding,2.11,0.6,2.72
+Grinding,3.21,0.11,3.32
+Grinding,3.24,1.53,4.77
+Grinding,2.19,2.89,5.09
+Grinding,3.35,0.03,3.38
+Grinding,2.68,2.69,5.37
+Grinding,3.56,0.35,3.91
+Grinding,3.15,0.56,3.71
+Grinding,2.73,0.52,3.25
+Grinding,3.44,0.91,4.34
+Grinding,2.83,1.02,3.86
+Grinding,3.06,1.13,4.19
+Grinding,2.91,0.72,3.63
+Grinding,3.09,0.77,3.86
+Grinding,2.8,0.1,2.9
+Grinding,3.5,1.1,4.6
+Grinding,3.46,0.81,4.26
+Grinding,3.9,0.29,4.18
+Grinding,2.73,1.0,3.74
+Grinding,3.02,0.81,3.83
+Grinding,2.94,0.03,2.97
+Grinding,3.15,1.71,4.86
+Grinding,3.08,0.29,3.37
+Grinding,2.37,0.93,3.3
+Grinding,3.9,0.56,4.46
+Grinding,3.45,0.08,3.53
+Grinding,3.51,0.89,4.41
+Grinding,3.14,0.35,3.48
+Grinding,3.54,0.11,3.65
+Grinding,1.83,1.01,2.84
+Grinding,3.63,2.08,5.72
+Grinding,2.77,0.4,3.17
+Grinding,2.55,7.29,9.84
+Grinding,3.04,1.27,4.32
+Grinding,3.14,0.52,3.66
+Grinding,2.9,0.39,3.29
+Grinding,2.93,0.04,2.98
+Grinding,2.05,1.26,3.32
+Grinding,3.29,0.53,3.82
+Grinding,3.32,0.25,3.58
+Grinding,2.54,2.28,4.82
+Grinding,2.74,0.66,3.39
+Grinding,2.7,0.19,2.89
+Grinding,3.44,2.45,5.9
+Grinding,3.13,0.16,3.29
+Grinding,3.69,0.49,4.18
+Grinding,3.07,3.41,6.49
+Grinding,2.2,1.17,3.37
+Grinding,3.55,1.42,4.97
+Grinding,3.2,0.8,4.0
+Grinding,3.0,0.24,3.24
+Grinding,2.47,0.81,3.28
+Grinding,2.38,0.57,2.95
+Grinding,3.12,0.32,3.44
+Grinding,2.42,1.64,4.06
+Grinding,3.07,0.23,3.3
+Grinding,3.23,0.67,3.89
+Grinding,2.35,2.7,5.05
+Grinding,2.39,0.77,3.16
+Grinding,3.19,1.56,4.74
+Grinding,2.18,0.59,2.76
+Grinding,3.46,1.31,4.78
+Grinding,2.6,0.95,3.56
+Grinding,3.02,0.73,3.75
+Grinding,2.97,0.0,2.98
+Grinding,3.02,2.06,5.08
+Grinding,3.18,0.23,3.4
+Grinding,2.87,0.46,3.33
+Grinding,2.41,1.24,3.65
+Grinding,3.2,1.47,4.68
+Grinding,2.86,0.62,3.47
+Grinding,2.9,1.44,4.34
+Grinding,2.17,0.65,2.81
+Grinding,3.13,0.9,4.03
+Heat Treat/HIP,12.8,2.79,15.59
+Heat Treat/HIP,9.74,1.13,10.87
+Heat Treat/HIP,9.69,0.24,9.93
+Heat Treat/HIP,8.46,6.44,14.9
+Heat Treat/HIP,12.22,2.51,14.73
+Heat Treat/HIP,11.91,2.35,14.26
+Heat Treat/HIP,12.93,3.09,16.02
+Heat Treat/HIP,13.06,2.85,15.9
+Heat Treat/HIP,11.83,9.5,21.33
+Heat Treat/HIP,12.85,6.59,19.43
+Heat Treat/HIP,10.56,0.7,11.26
+Heat Treat/HIP,12.36,1.34,13.7
+Heat Treat/HIP,8.98,2.42,11.4
+Heat Treat/HIP,12.59,2.09,14.69
+Heat Treat/HIP,13.37,16.78,30.16
+Heat Treat/HIP,11.67,0.36,12.03
+Heat Treat/HIP,14.1,7.72,21.82
+Heat Treat/HIP,11.33,2.1,13.43
+Heat Treat/HIP,11.2,7.6,18.8
+Heat Treat/HIP,12.56,0.52,13.08
+Heat Treat/HIP,11.56,0.12,11.67
+Heat Treat/HIP,13.76,4.37,18.12
+Heat Treat/HIP,12.51,1.84,14.34
+Heat Treat/HIP,8.9,4.67,13.58
+Heat Treat/HIP,10.67,6.7,17.37
+Heat Treat/HIP,11.09,3.72,14.81
+Heat Treat/HIP,14.06,1.63,15.69
+Heat Treat/HIP,9.06,2.18,11.24
+Heat Treat/HIP,9.4,2.79,12.19
+Heat Treat/HIP,10.82,8.11,18.93
+Heat Treat/HIP,11.77,3.05,14.81
+Heat Treat/HIP,12.46,0.51,12.97
+Heat Treat/HIP,12.49,5.45,17.95
+Heat Treat/HIP,16.92,4.4,21.32
+Heat Treat/HIP,12.06,1.59,13.64
+Heat Treat/HIP,13.06,3.64,16.7
+Heat Treat/HIP,7.08,2.46,9.54
+Heat Treat/HIP,9.75,8.01,17.76
+Heat Treat/HIP,13.56,4.97,18.53
+Heat Treat/HIP,14.61,2.25,16.86
+Heat Treat/HIP,9.68,4.15,13.83
+Heat Treat/HIP,11.59,0.73,12.31
+Heat Treat/HIP,11.68,0.21,11.89
+Heat Treat/HIP,13.59,0.01,13.6
+Heat Treat/HIP,14.0,7.06,21.06
+Heat Treat/HIP,15.16,6.64,21.8
+Heat Treat/HIP,11.1,0.94,12.05
+Heat Treat/HIP,11.64,4.18,15.82
+Heat Treat/HIP,14.25,1.22,15.46
+Heat Treat/HIP,11.73,3.68,15.41
+Heat Treat/HIP,11.27,9.42,20.69
+Heat Treat/HIP,13.73,5.5,19.22
+Heat Treat/HIP,11.33,13.6,24.93
+Heat Treat/HIP,12.26,2.71,14.97
+Heat Treat/HIP,12.52,9.68,22.2
+Heat Treat/HIP,11.23,12.73,23.96
+Heat Treat/HIP,6.88,4.2,11.08
+Heat Treat/HIP,12.34,1.69,14.03
+Heat Treat/HIP,13.66,8.35,22.01
+Heat Treat/HIP,7.43,9.22,16.65
+Heat Treat/HIP,12.75,1.09,13.84
+Heat Treat/HIP,9.54,4.55,14.09
+Heat Treat/HIP,13.38,9.7,23.08
+Heat Treat/HIP,12.87,1.16,14.03
+Heat Treat/HIP,10.11,5.48,15.58
+Heat Treat/HIP,10.88,5.57,16.46
+Heat Treat/HIP,9.8,3.85,13.65
+Heat Treat/HIP,10.76,0.2,10.96
+Heat Treat/HIP,11.73,4.32,16.06
+Heat Treat/HIP,14.58,4.16,18.75
+Heat Treat/HIP,16.32,0.38,16.7
+Heat Treat/HIP,8.84,2.33,11.17
+Heat Treat/HIP,10.2,1.41,11.61
+Heat Treat/HIP,14.82,4.0,18.81
+Heat Treat/HIP,17.19,15.26,32.45
+Heat Treat/HIP,8.37,0.78,9.15
+Heat Treat/HIP,11.29,5.0,16.29
+Heat Treat/HIP,12.18,1.05,13.23
+Heat Treat/HIP,10.76,2.46,13.23
+Heat Treat/HIP,13.65,3.48,17.13
+Heat Treat/HIP,8.9,0.82,9.72
+Heat Treat/HIP,13.7,4.84,18.54
+Heat Treat/HIP,10.66,3.69,14.36
+Heat Treat/HIP,11.82,3.02,14.85
+Heat Treat/HIP,10.04,3.07,13.11
+Heat Treat/HIP,12.06,6.56,18.63
+Heat Treat/HIP,12.64,0.94,13.58
+Heat Treat/HIP,10.09,1.77,11.86
+Heat Treat/HIP,14.56,1.23,15.79
+Heat Treat/HIP,10.67,1.47,12.13
+Heat Treat/HIP,12.76,3.39,16.15
+Heat Treat/HIP,13.16,1.82,14.99
+Heat Treat/HIP,12.6,1.92,14.53
+Heat Treat/HIP,14.81,1.81,16.63
+Heat Treat/HIP,13.28,4.95,18.23
+Heat Treat/HIP,11.88,5.46,17.34
+Heat Treat/HIP,12.56,2.51,15.07
+Heat Treat/HIP,11.87,0.06,11.93
+Heat Treat/HIP,12.12,0.78,12.9
+Heat Treat/HIP,14.84,0.11,14.95
+Heat Treat/HIP,7.93,0.36,8.29
+Heat Treat/HIP,11.16,4.98,16.14
+Heat Treat/HIP,11.43,2.48,13.91
+Heat Treat/HIP,11.12,7.66,18.78
+Heat Treat/HIP,10.56,2.15,12.71
+Heat Treat/HIP,13.56,0.29,13.85
+Heat Treat/HIP,9.79,12.1,21.88
+Heat Treat/HIP,11.19,7.92,19.11
+Heat Treat/HIP,11.93,15.25,27.18
+Heat Treat/HIP,9.47,2.54,12.01
+Heat Treat/HIP,8.02,3.25,11.27
+Heat Treat/HIP,10.7,4.36,15.05
+Heat Treat/HIP,14.28,9.76,24.03
+Heat Treat/HIP,11.94,2.21,14.16
+Heat Treat/HIP,14.39,11.59,25.98
+Heat Treat/HIP,10.22,9.22,19.44
+Heat Treat/HIP,9.8,6.4,16.2
+Heat Treat/HIP,9.26,1.83,11.1
+Heat Treat/HIP,12.06,1.66,13.72
+Heat Treat/HIP,14.37,1.62,15.99
+Heat Treat/HIP,11.22,12.9,24.11
+Heat Treat/HIP,12.59,2.56,15.15
+Heat Treat/HIP,12.83,7.25,20.08
+Heat Treat/HIP,12.98,5.39,18.36
+Heat Treat/HIP,7.08,4.17,11.25
+Heat Treat/HIP,11.98,3.59,15.57
+Heat Treat/HIP,11.8,2.18,13.98
+Heat Treat/HIP,7.6,5.15,12.75
+Heat Treat/HIP,12.92,2.0,14.92
+Heat Treat/HIP,13.08,3.42,16.49
+Heat Treat/HIP,11.27,0.79,12.07
+Heat Treat/HIP,8.86,5.44,14.3
+Heat Treat/HIP,7.75,3.68,11.43
+Heat Treat/HIP,13.42,0.89,14.31
+Heat Treat/HIP,10.53,4.58,15.11
+Heat Treat/HIP,13.74,11.02,24.76
+Heat Treat/HIP,11.79,0.7,12.48
+Heat Treat/HIP,11.12,11.49,22.61
+Heat Treat/HIP,9.59,5.42,15.01
+Heat Treat/HIP,10.82,3.76,14.58
+Heat Treat/HIP,13.14,17.64,30.79
+Heat Treat/HIP,13.43,0.46,13.89
+Heat Treat/HIP,11.78,2.92,14.71
+Heat Treat/HIP,13.05,2.21,15.26
+Heat Treat/HIP,13.41,1.2,14.6
+Heat Treat/HIP,13.44,2.32,15.77
+Heat Treat/HIP,11.86,0.32,12.18
+Heat Treat/HIP,11.13,9.02,20.16
+Heat Treat/HIP,13.88,4.61,18.49
+Heat Treat/HIP,13.41,5.23,18.64
+Heat Treat/HIP,11.45,3.02,14.47
+Heat Treat/HIP,12.7,5.28,17.98
+Heat Treat/HIP,12.35,0.62,12.97
+Heat Treat/HIP,11.99,0.63,12.63
+Heat Treat/HIP,12.03,2.06,14.09
+Heat Treat/HIP,10.25,6.05,16.3
+Heat Treat/HIP,15.72,3.43,19.15
+Heat Treat/HIP,15.28,23.22,38.49
+Heat Treat/HIP,10.45,1.87,12.31
+Heat Treat/HIP,12.14,7.28,19.42
+Heat Treat/HIP,14.94,12.23,27.17
+Heat Treat/HIP,14.05,2.82,16.87
+Heat Treat/HIP,10.17,3.82,13.99
+Heat Treat/HIP,11.79,4.28,16.08
+Heat Treat/HIP,13.0,1.85,14.85
+Heat Treat/HIP,12.14,0.17,12.31
+Heat Treat/HIP,10.45,8.48,18.93
+Heat Treat/HIP,13.3,11.37,24.67
+Heat Treat/HIP,14.09,0.79,14.87
+Heat Treat/HIP,11.5,6.18,17.68
+Heat Treat/HIP,11.87,6.27,18.13
+Heat Treat/HIP,10.31,0.32,10.63
+Heat Treat/HIP,13.21,0.86,14.07
+Heat Treat/HIP,10.77,5.29,16.06
+Heat Treat/HIP,12.63,1.08,13.72
+Heat Treat/HIP,16.42,2.59,19.01
+Heat Treat/HIP,13.79,7.67,21.47
+Heat Treat/HIP,12.57,4.49,17.06
+Heat Treat/HIP,10.58,8.07,18.65
+Heat Treat/HIP,10.64,5.24,15.88
+Heat Treat/HIP,12.47,10.58,23.06
+Heat Treat/HIP,11.86,5.34,17.2
+Heat Treat/HIP,9.1,13.46,22.56
+Heat Treat/HIP,10.02,2.81,12.83
+Heat Treat/HIP,16.34,0.43,16.78
+Heat Treat/HIP,11.77,5.07,16.85
+Heat Treat/HIP,13.31,0.51,13.83
+Heat Treat/HIP,9.8,3.28,13.09
+Heat Treat/HIP,7.78,6.79,14.56
+Heat Treat/HIP,17.39,6.74,24.13
+Heat Treat/HIP,13.82,11.27,25.09
+Heat Treat/HIP,14.85,4.11,18.96
+Heat Treat/HIP,11.0,3.68,14.68
+Heat Treat/HIP,11.66,1.24,12.9
+Heat Treat/HIP,10.94,4.92,15.86
+Heat Treat/HIP,11.73,10.45,22.19
+Heat Treat/HIP,14.06,0.65,14.71
+Heat Treat/HIP,10.82,6.16,16.98
+Heat Treat/HIP,11.65,2.14,13.79
+Heat Treat/HIP,11.39,0.82,12.21
+Machining,4.58,0.16,4.74
+Machining,3.08,4.35,7.43
+Machining,3.34,1.59,4.92
+Machining,5.24,2.03,7.28
+Machining,5.71,3.96,9.67
+Machining,5.36,3.41,8.77
+Machining,3.91,1.07,4.98
+Machining,5.99,2.36,8.35
+Machining,4.25,5.71,9.97
+Machining,3.34,3.05,6.39
+Machining,3.9,2.7,6.61
+Machining,2.45,0.5,2.94
+Machining,2.98,0.55,3.53
+Machining,3.69,3.72,7.4
+Machining,5.15,0.46,5.61
+Machining,5.2,0.25,5.45
+Machining,4.04,0.93,4.97
+Machining,3.33,2.15,5.48
+Machining,4.91,0.14,5.05
+Machining,2.5,2.77,5.27
+Machining,3.23,0.76,3.99
+Machining,2.91,0.37,3.28
+Machining,4.37,2.05,6.41
+Machining,5.53,0.01,5.54
+Machining,3.8,3.5,7.3
+Machining,4.08,3.63,7.71
+Machining,4.34,1.76,6.1
+Machining,3.27,1.1,4.37
+Machining,4.39,0.08,4.46
+Machining,6.09,1.17,7.25
+Machining,5.04,2.35,7.39
+Machining,5.26,0.23,5.49
+Machining,3.94,0.96,4.9
+Machining,2.62,0.33,2.95
+Machining,5.15,0.51,5.66
+Machining,4.85,0.6,5.45
+Machining,3.13,0.73,3.85
+Machining,3.04,0.93,3.97
+Machining,1.56,1.54,3.09
+Machining,1.44,0.67,2.11
+Machining,7.61,0.16,7.77
+Machining,6.02,1.59,7.61
+Machining,3.57,0.93,4.5
+Machining,4.14,1.55,5.69
+Machining,4.0,0.61,4.62
+Machining,4.1,1.08,5.18
+Machining,3.72,3.3,7.03
+Machining,2.65,0.23,2.88
+Machining,6.29,0.6,6.89
+Machining,4.57,2.13,6.7
+Machining,3.55,1.63,5.19
+Machining,6.04,2.93,8.98
+Machining,5.34,1.55,6.9
+Machining,5.96,1.8,7.76
+Machining,5.15,4.12,9.27
+Machining,3.67,1.56,5.23
+Machining,4.32,0.88,5.2
+Machining,4.5,1.1,5.6
+Machining,4.68,1.67,6.35
+Machining,4.11,1.14,5.24
+Machining,4.36,1.29,5.65
+Machining,3.2,4.5,7.7
+Machining,5.12,0.53,5.65
+Machining,3.4,0.3,3.7
+Machining,2.27,0.83,3.1
+Machining,3.56,1.99,5.55
+Machining,2.64,0.15,2.79
+Machining,3.47,1.56,5.03
+Machining,4.07,4.7,8.77
+Machining,4.25,3.37,7.62
+Machining,4.0,1.18,5.19
+Machining,3.91,2.08,5.99
+Machining,3.21,3.42,6.63
+Machining,4.75,0.32,5.07
+Machining,5.01,6.2,11.21
+Machining,5.34,0.44,5.78
+Machining,2.86,0.29,3.15
+Machining,5.73,0.22,5.95
+Machining,2.99,1.46,4.45
+Machining,4.75,0.43,5.18
+Machining,5.65,1.2,6.85
+Machining,3.69,3.28,6.97
+Machining,2.61,3.64,6.25
+Machining,4.12,0.87,4.99
+Machining,3.64,1.62,5.25
+Machining,4.5,0.29,4.79
+Machining,4.02,0.02,4.05
+Machining,3.87,1.28,5.16
+Machining,4.14,0.55,4.7
+Machining,3.8,0.68,4.48
+Machining,3.51,1.11,4.62
+Machining,3.68,0.95,4.63
+Machining,6.2,0.15,6.35
+Machining,4.69,0.85,5.54
+Machining,2.3,0.34,2.64
+Machining,4.89,1.49,6.38
+Machining,4.96,0.63,5.59
+Machining,4.84,0.17,5.01
+Machining,4.25,4.74,8.99
+Machining,4.55,0.25,4.8
+Machining,2.91,3.22,6.13
+Machining,4.57,1.17,5.74
+Machining,4.76,0.58,5.34
+Machining,4.06,1.54,5.6
+Machining,3.63,0.35,3.97
+Machining,3.03,0.36,3.39
+Machining,2.74,0.46,3.2
+Machining,4.95,2.64,7.59
+Machining,1.68,2.7,4.39
+Machining,3.49,1.07,4.57
+Machining,3.44,5.23,8.66
+Machining,4.98,4.12,9.09
+Machining,3.5,2.08,5.58
+Machining,4.57,2.72,7.29
+Machining,3.04,0.5,3.55
+Machining,3.64,1.41,5.05
+Machining,4.79,0.8,5.59
+Machining,2.79,0.41,3.2
+Machining,3.31,1.57,4.88
+Machining,4.18,5.86,10.05
+Machining,3.02,3.7,6.72
+Machining,5.21,1.2,6.41
+Machining,1.71,0.09,1.79
+Machining,4.54,0.5,5.04
+Machining,3.43,0.85,4.28
+Machining,4.76,1.61,6.37
+Machining,4.86,3.66,8.52
+Machining,3.4,0.1,3.5
+Machining,2.13,1.29,3.42
+Machining,4.93,1.27,6.19
+Machining,4.3,3.61,7.91
+Machining,2.56,0.34,2.9
+Machining,3.79,1.08,4.88
+Machining,3.89,3.27,7.16
+Machining,1.92,3.78,5.7
+Machining,4.63,1.22,5.85
+Machining,4.25,7.27,11.52
+Machining,4.69,1.19,5.88
+Machining,3.08,4.42,7.49
+Machining,4.35,0.65,5.01
+Machining,2.82,3.46,6.28
+Machining,5.4,0.19,5.59
+Machining,4.25,5.02,9.26
+Machining,4.79,1.12,5.91
+Machining,1.75,0.64,2.39
+Machining,3.89,0.21,4.1
+Machining,5.01,0.14,5.15
+Machining,2.4,0.33,2.73
+Machining,4.74,3.39,8.13
+Machining,4.46,3.69,8.15
+Machining,5.28,1.81,7.09
+Machining,1.93,3.94,5.86
+Machining,3.95,1.14,5.09
+Machining,5.44,0.66,6.1
+Machining,5.02,2.0,7.03
+Machining,2.37,3.55,5.92
+Machining,1.87,1.88,3.75
+Machining,5.1,0.8,5.89
+Machining,4.57,1.81,6.39
+Machining,4.3,0.04,4.34
+Machining,5.01,2.63,7.64
+Machining,4.89,3.9,8.79
+Machining,2.04,0.04,2.08
+Machining,2.3,4.43,6.72
+Machining,3.86,1.47,5.32
+Machining,2.93,8.11,11.04
+Machining,5.66,4.88,10.54
+Machining,3.01,1.36,4.37
+Machining,6.44,2.72,9.17
+Machining,5.15,0.07,5.22
+Machining,3.34,2.33,5.67
+Machining,4.52,2.58,7.1
+Machining,3.02,2.11,5.13
+Machining,6.03,0.03,6.06
+Machining,2.78,1.73,4.5
+Machining,4.68,0.24,4.92
+Machining,3.8,1.21,5.01
+Machining,2.7,0.86,3.56
+Machining,3.44,0.34,3.78
+Machining,4.14,0.01,4.15
+Machining,5.8,1.06,6.86
+Machining,4.62,0.99,5.61
+Machining,2.16,1.42,3.58
+Machining,3.17,0.01,3.18
+Machining,3.73,1.57,5.3
+Machining,6.55,3.08,9.64
+Machining,4.44,0.85,5.29
+Machining,4.48,0.79,5.27
+Machining,4.46,2.23,6.69
+Machining,4.0,1.27,5.27
+Machining,3.31,0.49,3.8
+Machining,3.63,1.22,4.85
+Machining,2.53,0.18,2.7
+Machining,5.36,0.49,5.85
+Machining,4.24,0.17,4.42
+Machining,2.33,0.54,2.87
+Machining,4.37,0.57,4.94
+Machining,1.89,0.26,2.15
+Machining,3.52,1.24,4.75
+Machining,5.05,1.08,6.13
+FPI Inspection,2.22,2.23,4.46
+FPI Inspection,1.85,0.19,2.05
+FPI Inspection,2.18,1.46,3.64
+FPI Inspection,2.22,0.42,2.64
+FPI Inspection,1.71,2.76,4.46
+FPI Inspection,2.18,1.03,3.2
+FPI Inspection,1.97,0.62,2.59
+FPI Inspection,2.09,3.86,5.94
+FPI Inspection,2.59,0.48,3.07
+FPI Inspection,1.82,0.06,1.89
+FPI Inspection,2.39,0.03,2.42
+FPI Inspection,2.01,0.47,2.48
+FPI Inspection,1.85,3.03,4.89
+FPI Inspection,2.32,0.39,2.71
+FPI Inspection,1.79,0.32,2.11
+FPI Inspection,2.23,1.02,3.25
+FPI Inspection,1.73,0.05,1.78
+FPI Inspection,1.75,2.86,4.6
+FPI Inspection,2.31,0.4,2.71
+FPI Inspection,1.71,3.76,5.48
+FPI Inspection,1.9,0.45,2.35
+FPI Inspection,1.7,1.01,2.72
+FPI Inspection,2.5,1.47,3.97
+FPI Inspection,1.99,0.27,2.27
+FPI Inspection,1.99,0.06,2.05
+FPI Inspection,2.42,0.28,2.7
+FPI Inspection,1.86,0.08,1.94
+FPI Inspection,2.37,0.81,3.19
+FPI Inspection,1.57,0.33,1.9
+FPI Inspection,2.06,0.43,2.49
+FPI Inspection,2.33,1.7,4.02
+FPI Inspection,1.63,0.09,1.72
+FPI Inspection,1.46,3.51,4.97
+FPI Inspection,1.96,1.21,3.17
+FPI Inspection,1.91,0.09,2.0
+FPI Inspection,1.74,1.24,2.98
+FPI Inspection,2.66,0.68,3.34
+FPI Inspection,1.94,0.16,2.1
+FPI Inspection,2.11,0.72,2.84
+FPI Inspection,1.9,0.41,2.31
+FPI Inspection,1.62,0.43,2.06
+FPI Inspection,2.27,1.39,3.65
+FPI Inspection,2.26,0.14,2.41
+FPI Inspection,2.29,3.26,5.55
+FPI Inspection,1.68,0.35,2.02
+FPI Inspection,2.44,0.59,3.03
+FPI Inspection,2.06,1.29,3.35
+FPI Inspection,1.83,1.89,3.72
+FPI Inspection,2.13,3.27,5.41
+FPI Inspection,1.81,0.06,1.86
+FPI Inspection,1.81,2.06,3.87
+FPI Inspection,1.69,0.92,2.61
+FPI Inspection,2.0,1.67,3.67
+FPI Inspection,1.91,0.61,2.52
+FPI Inspection,1.69,0.35,2.04
+FPI Inspection,1.6,0.4,2.0
+FPI Inspection,1.7,0.5,2.2
+FPI Inspection,2.34,0.24,2.59
+FPI Inspection,2.2,0.27,2.47
+FPI Inspection,2.0,1.36,3.36
+FPI Inspection,1.85,0.08,1.93
+FPI Inspection,1.88,3.12,5.01
+FPI Inspection,2.17,0.01,2.17
+FPI Inspection,2.82,0.53,3.35
+FPI Inspection,1.71,0.11,1.82
+FPI Inspection,2.52,0.25,2.77
+FPI Inspection,1.94,0.52,2.46
+FPI Inspection,2.55,0.03,2.58
+FPI Inspection,1.25,1.69,2.94
+FPI Inspection,2.29,0.38,2.68
+FPI Inspection,2.19,0.67,2.86
+FPI Inspection,2.05,0.02,2.07
+FPI Inspection,1.6,0.67,2.27
+FPI Inspection,2.07,2.52,4.59
+FPI Inspection,2.01,0.12,2.13
+FPI Inspection,1.82,0.47,2.29
+FPI Inspection,1.84,2.63,4.47
+FPI Inspection,2.62,0.7,3.32
+FPI Inspection,1.99,0.02,2.01
+FPI Inspection,2.02,0.13,2.15
+FPI Inspection,2.04,0.17,2.21
+FPI Inspection,1.93,1.13,3.06
+FPI Inspection,1.56,0.76,2.32
+FPI Inspection,2.06,0.01,2.07
+FPI Inspection,2.34,1.11,3.44
+FPI Inspection,1.81,1.25,3.06
+FPI Inspection,2.47,0.42,2.89
+FPI Inspection,2.56,2.37,4.93
+FPI Inspection,1.52,0.44,1.95
+FPI Inspection,2.29,1.51,3.8
+FPI Inspection,2.11,0.21,2.32
+FPI Inspection,1.69,0.38,2.07
+FPI Inspection,2.08,0.66,2.74
+FPI Inspection,1.88,1.41,3.29
+FPI Inspection,2.11,0.75,2.85
+FPI Inspection,2.0,0.77,2.77
+FPI Inspection,1.95,0.36,2.31
+FPI Inspection,2.09,0.87,2.96
+FPI Inspection,2.09,0.72,2.81
+FPI Inspection,1.89,1.13,3.02
+FPI Inspection,1.48,0.8,2.28
+FPI Inspection,1.88,0.99,2.87
+FPI Inspection,1.69,0.19,1.88
+FPI Inspection,1.71,1.92,3.63
+FPI Inspection,1.92,0.78,2.71
+FPI Inspection,1.88,0.5,2.38
+FPI Inspection,1.89,0.42,2.31
+FPI Inspection,1.8,2.55,4.35
+FPI Inspection,1.72,2.87,4.59
+FPI Inspection,1.92,0.46,2.38
+FPI Inspection,2.09,1.32,3.42
+FPI Inspection,1.7,0.99,2.69
+FPI Inspection,1.68,1.72,3.39
+FPI Inspection,1.77,0.17,1.94
+FPI Inspection,2.08,0.8,2.88
+FPI Inspection,1.99,0.3,2.28
+FPI Inspection,1.7,2.24,3.94
+FPI Inspection,2.41,0.21,2.62
+FPI Inspection,2.35,1.27,3.62
+FPI Inspection,1.67,0.69,2.35
+FPI Inspection,2.18,0.2,2.37
+FPI Inspection,1.49,0.05,1.54
+FPI Inspection,1.99,0.52,2.51
+FPI Inspection,2.25,1.09,3.34
+FPI Inspection,1.5,1.27,2.77
+FPI Inspection,2.66,0.52,3.17
+FPI Inspection,1.92,0.03,1.95
+FPI Inspection,2.16,0.13,2.29
+FPI Inspection,1.79,0.7,2.49
+FPI Inspection,1.8,0.86,2.66
+FPI Inspection,1.99,0.56,2.55
+FPI Inspection,2.28,0.04,2.32
+FPI Inspection,2.03,0.34,2.37
+FPI Inspection,1.77,0.45,2.22
+FPI Inspection,1.71,0.55,2.26
+FPI Inspection,2.55,0.26,2.8
+FPI Inspection,2.05,0.38,2.43
+FPI Inspection,1.93,1.74,3.67
+FPI Inspection,2.29,0.83,3.12
+FPI Inspection,2.16,0.32,2.48
+FPI Inspection,1.91,0.24,2.15
+FPI Inspection,1.46,1.81,3.27
+FPI Inspection,2.49,1.07,3.55
+FPI Inspection,2.33,0.26,2.59
+FPI Inspection,1.79,0.21,2.0
+FPI Inspection,1.5,0.38,1.88
+FPI Inspection,2.0,2.72,4.72
+FPI Inspection,2.58,0.69,3.27
+FPI Inspection,1.7,0.2,1.9
+FPI Inspection,1.84,0.01,1.85
+FPI Inspection,2.16,1.2,3.37
+FPI Inspection,1.98,0.29,2.27
+FPI Inspection,2.04,0.12,2.16
+FPI Inspection,2.62,0.07,2.68
+FPI Inspection,2.2,0.13,2.33
+FPI Inspection,1.66,0.61,2.27
+FPI Inspection,2.6,0.04,2.64
+FPI Inspection,1.7,3.14,4.84
+FPI Inspection,2.33,0.01,2.35
+FPI Inspection,2.29,0.07,2.35
+FPI Inspection,1.8,1.81,3.6
+FPI Inspection,2.1,0.78,2.88
+FPI Inspection,2.05,1.3,3.35
+FPI Inspection,1.8,1.29,3.09
+FPI Inspection,1.72,1.07,2.79
+FPI Inspection,1.31,1.66,2.97
+FPI Inspection,2.13,1.03,3.16
+FPI Inspection,2.4,0.85,3.24
+FPI Inspection,2.23,0.84,3.07
+FPI Inspection,2.04,0.39,2.43
+FPI Inspection,1.94,0.3,2.24
+FPI Inspection,1.82,0.66,2.48
+FPI Inspection,1.78,0.88,2.66
+FPI Inspection,1.81,0.47,2.28
+FPI Inspection,1.98,1.14,3.11
+FPI Inspection,1.81,0.06,1.86
+FPI Inspection,1.99,0.57,2.56
+FPI Inspection,2.26,0.28,2.54
+FPI Inspection,1.86,0.47,2.33
+FPI Inspection,2.08,0.13,2.21
+FPI Inspection,1.96,0.05,2.01
+FPI Inspection,1.62,0.13,1.75
+FPI Inspection,2.56,0.36,2.92
+FPI Inspection,2.12,1.61,3.73
+FPI Inspection,2.06,0.07,2.14
+FPI Inspection,1.64,0.15,1.79
+FPI Inspection,1.81,0.07,1.88
+FPI Inspection,1.73,0.04,1.77
+FPI Inspection,2.09,0.86,2.95
+FPI Inspection,2.51,0.69,3.21
+FPI Inspection,2.24,0.13,2.37
+FPI Inspection,2.13,0.1,2.23
+FPI Inspection,1.72,1.49,3.22
+FPI Inspection,2.1,0.29,2.39
+FPI Inspection,1.59,1.03,2.63
+FPI Inspection,1.97,0.56,2.53
+FPI Inspection,1.69,0.38,2.07
+FPI Inspection,2.35,1.81,4.17
+FPI Inspection,2.12,0.06,2.19
+FPI Inspection,1.93,0.14,2.06
+X-Ray,3.01,0.9,3.91
+X-Ray,3.38,1.02,4.4
+X-Ray,3.12,0.15,3.27
+X-Ray,3.71,2.19,5.9
+X-Ray,2.29,0.15,2.44
+X-Ray,2.8,0.89,3.69
+X-Ray,2.73,0.13,2.85
+X-Ray,2.17,0.27,2.44
+X-Ray,2.36,0.31,2.67
+X-Ray,2.88,0.02,2.9
+X-Ray,2.53,2.55,5.08
+X-Ray,3.21,1.85,5.06
+X-Ray,2.75,0.07,2.82
+X-Ray,3.54,0.1,3.64
+X-Ray,3.25,0.23,3.48
+X-Ray,3.11,2.4,5.51
+X-Ray,3.66,1.44,5.09
+X-Ray,3.57,0.08,3.65
+X-Ray,2.8,2.17,4.98
+X-Ray,4.23,0.67,4.9
+X-Ray,4.34,1.06,5.4
+X-Ray,3.16,0.61,3.77
+X-Ray,2.74,0.64,3.38
+X-Ray,2.66,1.16,3.82
+X-Ray,3.72,1.03,4.74
+X-Ray,2.89,0.5,3.39
+X-Ray,1.87,0.04,1.91
+X-Ray,2.98,0.4,3.37
+X-Ray,2.18,1.53,3.71
+X-Ray,2.84,2.38,5.21
+X-Ray,3.1,0.01,3.11
+X-Ray,3.5,0.83,4.34
+X-Ray,3.14,0.92,4.06
+X-Ray,2.67,2.93,5.6
+X-Ray,3.36,2.17,5.53
+X-Ray,2.91,1.68,4.59
+X-Ray,1.99,0.6,2.59
+X-Ray,2.27,0.06,2.33
+X-Ray,3.64,1.64,5.27
+X-Ray,3.23,1.05,4.28
+X-Ray,3.69,0.9,4.59
+X-Ray,2.5,2.2,4.69
+X-Ray,2.74,0.0,2.75
+X-Ray,2.85,1.63,4.48
+X-Ray,2.69,2.2,4.89
+X-Ray,3.07,0.78,3.85
+X-Ray,3.97,1.21,5.17
+X-Ray,2.8,0.33,3.12
+X-Ray,3.47,0.6,4.07
+X-Ray,3.19,0.41,3.6
+X-Ray,3.07,1.69,4.76
+X-Ray,2.69,4.12,6.81
+X-Ray,2.5,3.28,5.78
+X-Ray,4.07,0.24,4.31
+X-Ray,2.5,2.37,4.87
+X-Ray,3.6,1.64,5.24
+X-Ray,3.57,2.65,6.22
+X-Ray,2.66,0.35,3.0
+X-Ray,2.08,3.12,5.2
+X-Ray,3.82,4.3,8.13
+X-Ray,3.06,0.91,3.97
+X-Ray,2.53,2.44,4.97
+X-Ray,2.64,0.89,3.52
+X-Ray,3.47,0.57,4.04
+X-Ray,3.66,1.1,4.75
+X-Ray,2.58,0.27,2.85
+X-Ray,2.66,0.5,3.16
+X-Ray,4.12,0.08,4.21
+X-Ray,3.26,2.4,5.66
+X-Ray,2.09,0.88,2.97
+X-Ray,2.96,0.45,3.41
+X-Ray,2.43,0.73,3.16
+X-Ray,2.85,1.93,4.78
+X-Ray,3.56,0.32,3.87
+X-Ray,2.26,4.34,6.6
+X-Ray,3.94,0.0,3.94
+X-Ray,3.57,0.6,4.16
+X-Ray,2.75,0.29,3.05
+X-Ray,3.14,0.98,4.12
+X-Ray,3.54,0.61,4.16
+X-Ray,3.13,0.84,3.97
+X-Ray,2.42,0.62,3.04
+X-Ray,3.11,1.2,4.31
+X-Ray,2.69,0.98,3.67
+X-Ray,2.8,0.76,3.56
+X-Ray,2.63,1.59,4.22
+X-Ray,3.33,0.46,3.79
+X-Ray,2.7,1.31,4.01
+X-Ray,3.07,0.09,3.16
+X-Ray,3.15,0.57,3.71
+X-Ray,3.9,0.51,4.4
+X-Ray,3.4,0.67,4.08
+X-Ray,3.74,2.94,6.68
+X-Ray,2.54,1.81,4.34
+X-Ray,3.14,0.78,3.92
+X-Ray,2.16,0.02,2.17
+X-Ray,2.97,3.44,6.41
+X-Ray,3.36,1.31,4.67
+X-Ray,2.7,2.34,5.04
+X-Ray,3.85,0.25,4.1
+X-Ray,3.06,0.48,3.54
+X-Ray,3.23,1.61,4.84
+X-Ray,3.41,0.42,3.83
+X-Ray,3.37,0.03,3.4
+X-Ray,3.09,0.62,3.7
+X-Ray,3.11,0.22,3.33
+X-Ray,2.05,0.26,2.31
+X-Ray,2.85,0.8,3.65
+X-Ray,3.15,0.8,3.95
+X-Ray,3.6,6.15,9.76
+X-Ray,2.74,0.65,3.38
+X-Ray,3.19,0.75,3.94
+X-Ray,3.79,0.47,4.26
+X-Ray,3.48,0.55,4.03
+X-Ray,3.05,0.26,3.32
+X-Ray,3.03,3.08,6.11
+X-Ray,3.41,0.03,3.44
+X-Ray,2.83,0.11,2.95
+X-Ray,3.58,0.72,4.29
+X-Ray,2.89,2.2,5.09
+X-Ray,2.57,3.12,5.68
+X-Ray,2.81,0.1,2.91
+X-Ray,3.33,0.15,3.48
+X-Ray,3.18,0.88,4.06
+X-Ray,2.97,1.86,4.83
+X-Ray,2.67,0.43,3.11
+X-Ray,2.62,1.88,4.5
+X-Ray,2.59,4.37,6.96
+X-Ray,3.16,1.35,4.51
+X-Ray,2.54,0.72,3.26
+X-Ray,2.92,2.06,4.98
+X-Ray,3.34,2.75,6.08
+X-Ray,4.26,1.59,5.84
+X-Ray,3.1,2.66,5.76
+X-Ray,2.84,0.13,2.97
+X-Ray,3.06,0.66,3.72
+X-Ray,3.42,0.01,3.43
+X-Ray,2.1,0.86,2.96
+X-Ray,2.48,0.54,3.02
+X-Ray,3.31,0.2,3.52
+X-Ray,3.36,0.8,4.17
+X-Ray,2.04,2.48,4.52
+X-Ray,2.85,1.2,4.05
+X-Ray,2.31,4.76,7.07
+X-Ray,3.27,1.15,4.43
+X-Ray,2.77,0.17,2.94
+X-Ray,2.71,1.44,4.15
+X-Ray,3.25,0.33,3.58
+X-Ray,3.75,1.21,4.95
+X-Ray,2.92,1.62,4.53
+X-Ray,3.17,1.9,5.07
+X-Ray,2.99,0.55,3.54
+X-Ray,3.5,0.18,3.67
+X-Ray,2.48,2.57,5.05
+X-Ray,3.06,2.25,5.31
+X-Ray,2.59,1.53,4.12
+X-Ray,2.22,1.1,3.32
+X-Ray,2.96,4.07,7.03
+X-Ray,3.89,0.53,4.42
+X-Ray,2.21,1.52,3.73
+X-Ray,1.93,1.9,3.82
+X-Ray,3.16,0.13,3.29
+X-Ray,3.26,2.13,5.39
+X-Ray,3.27,0.4,3.68
+X-Ray,1.99,1.06,3.05
+X-Ray,2.95,2.24,5.19
+X-Ray,3.02,0.27,3.29
+X-Ray,2.83,2.45,5.28
+X-Ray,3.31,0.02,3.34
+X-Ray,2.74,3.07,5.81
+X-Ray,3.76,0.73,4.49
+X-Ray,3.27,1.47,4.75
+X-Ray,3.61,0.68,4.29
+X-Ray,2.37,3.22,5.59
+X-Ray,3.06,1.78,4.84
+X-Ray,3.36,1.63,4.99
+X-Ray,3.18,0.1,3.27
+X-Ray,3.27,0.53,3.8
+X-Ray,3.08,2.33,5.42
+X-Ray,1.93,1.34,3.26
+X-Ray,3.31,0.95,4.26
+X-Ray,2.69,0.52,3.21
+X-Ray,2.61,0.42,3.02
+X-Ray,2.36,1.24,3.6
+X-Ray,2.91,0.29,3.2
+X-Ray,3.89,0.47,4.35
+X-Ray,3.25,0.85,4.1
+X-Ray,3.16,0.34,3.51
+X-Ray,3.59,2.88,6.47
+X-Ray,3.7,0.4,4.1
+X-Ray,3.27,2.2,5.47
+X-Ray,3.5,0.13,3.63
+X-Ray,2.95,1.79,4.74
+X-Ray,3.65,0.33,3.98
+X-Ray,2.5,0.96,3.46
+X-Ray,2.1,0.86,2.96
+X-Ray,3.16,3.47,6.63
+X-Ray,2.9,0.32,3.22
+X-Ray,3.62,1.83,5.45
+X-Ray,2.78,4.36,7.14
+Dimensional,1.29,0.59,1.89
+Dimensional,2.38,1.18,3.56
+Dimensional,2.13,1.81,3.94
+Dimensional,1.76,0.19,1.95
+Dimensional,2.02,0.06,2.07
+Dimensional,2.01,2.54,4.55
+Dimensional,0.74,0.74,1.48
+Dimensional,2.07,0.19,2.26
+Dimensional,2.42,0.31,2.73
+Dimensional,2.22,0.24,2.46
+Dimensional,1.97,0.79,2.77
+Dimensional,2.34,1.55,3.89
+Dimensional,1.61,0.02,1.63
+Dimensional,2.47,0.51,2.98
+Dimensional,1.81,0.49,2.3
+Dimensional,1.39,1.61,3.0
+Dimensional,1.72,0.3,2.03
+Dimensional,2.24,0.7,2.94
+Dimensional,2.62,2.43,5.05
+Dimensional,2.89,0.94,3.83
+Dimensional,2.96,1.37,4.33
+Dimensional,1.56,0.19,1.75
+Dimensional,2.46,1.07,3.53
+Dimensional,2.02,0.35,2.36
+Dimensional,2.0,0.04,2.04
+Dimensional,2.0,0.1,2.1
+Dimensional,2.37,1.98,4.35
+Dimensional,2.6,0.99,3.59
+Dimensional,2.42,0.03,2.45
+Dimensional,1.91,0.01,1.92
+Dimensional,1.78,0.25,2.03
+Dimensional,1.85,0.29,2.14
+Dimensional,2.89,0.35,3.24
+Dimensional,1.64,2.73,4.38
+Dimensional,2.42,1.3,3.72
+Dimensional,2.05,0.04,2.09
+Dimensional,2.55,1.9,4.45
+Dimensional,1.95,0.8,2.75
+Dimensional,2.08,0.19,2.27
+Dimensional,2.21,0.65,2.86
+Dimensional,2.31,0.07,2.38
+Dimensional,2.47,0.22,2.69
+Dimensional,2.12,0.03,2.14
+Dimensional,2.78,1.07,3.85
+Dimensional,1.89,0.03,1.91
+Dimensional,2.25,0.01,2.26
+Dimensional,1.93,0.78,2.71
+Dimensional,2.24,0.43,2.67
+Dimensional,2.15,2.39,4.54
+Dimensional,1.89,3.53,5.42
+Dimensional,1.9,0.66,2.56
+Dimensional,2.11,0.69,2.8
+Dimensional,1.89,0.3,2.19
+Dimensional,2.04,0.58,2.62
+Dimensional,1.91,0.89,2.8
+Dimensional,2.08,0.42,2.51
+Dimensional,1.55,0.87,2.42
+Dimensional,1.59,1.87,3.46
+Dimensional,1.82,0.98,2.8
+Dimensional,2.4,0.6,3.0
+Dimensional,1.29,0.07,1.36
+Dimensional,1.79,0.17,1.96
+Dimensional,2.66,0.03,2.69
+Dimensional,2.19,0.38,2.57
+Dimensional,2.14,1.6,3.74
+Dimensional,1.54,2.12,3.67
+Dimensional,1.43,1.1,2.53
+Dimensional,2.23,1.03,3.26
+Dimensional,1.83,0.09,1.92
+Dimensional,1.81,0.55,2.36
+Dimensional,2.27,0.03,2.3
+Dimensional,1.88,0.31,2.19
+Dimensional,2.21,0.01,2.22
+Dimensional,2.11,1.18,3.3
+Dimensional,2.76,0.45,3.21
+Dimensional,1.85,0.67,2.52
+Dimensional,2.2,0.27,2.47
+Dimensional,1.37,0.26,1.63
+Dimensional,1.58,0.2,1.78
+Dimensional,1.76,2.15,3.9
+Dimensional,2.88,0.68,3.56
+Dimensional,1.65,0.25,1.9
+Dimensional,2.1,0.36,2.46
+Dimensional,2.89,0.55,3.44
+Dimensional,1.83,0.37,2.2
+Dimensional,1.82,0.19,2.01
+Dimensional,1.94,0.76,2.7
+Dimensional,1.98,0.22,2.2
+Dimensional,2.65,0.66,3.31
+Dimensional,2.11,1.57,3.69
+Dimensional,1.58,0.16,1.75
+Dimensional,2.11,0.35,2.46
+Dimensional,1.97,1.66,3.63
+Dimensional,2.33,0.06,2.39
+Dimensional,1.86,0.15,2.02
+Dimensional,2.78,0.07,2.84
+Dimensional,2.38,0.82,3.2
+Dimensional,1.78,0.5,2.28
+Dimensional,1.87,0.26,2.13
+Dimensional,2.15,0.65,2.79
+Dimensional,1.32,0.56,1.88
+Dimensional,2.34,0.1,2.44
+Dimensional,1.4,0.32,1.72
+Dimensional,1.87,0.58,2.45
+Dimensional,2.02,2.37,4.39
+Dimensional,2.04,0.1,2.14
+Dimensional,1.81,0.22,2.04
+Dimensional,1.56,2.52,4.08
+Dimensional,1.85,0.53,2.38
+Dimensional,1.85,0.95,2.8
+Dimensional,1.81,1.16,2.98
+Dimensional,1.95,2.33,4.28
+Dimensional,2.17,1.51,3.68
+Dimensional,2.15,1.14,3.29
+Dimensional,1.42,0.02,1.44
+Dimensional,2.21,0.06,2.27
+Dimensional,2.07,0.12,2.2
+Dimensional,1.75,1.5,3.25
+Dimensional,1.99,0.62,2.61
+Dimensional,2.07,0.24,2.31
+Dimensional,2.26,0.16,2.42
+Dimensional,2.1,2.45,4.55
+Dimensional,1.71,1.94,3.65
+Dimensional,1.65,0.72,2.37
+Dimensional,2.52,0.14,2.66
+Dimensional,2.31,1.65,3.96
+Dimensional,2.2,0.97,3.17
+Dimensional,0.98,0.09,1.07
+Dimensional,1.73,2.32,4.05
+Dimensional,1.63,0.0,1.63
+Dimensional,1.58,1.23,2.8
+Dimensional,2.71,2.41,5.11
+Dimensional,1.48,0.2,1.68
+Dimensional,1.92,0.25,2.16
+Dimensional,2.16,0.58,2.74
+Dimensional,2.33,0.13,2.46
+Dimensional,1.95,0.0,1.96
+Dimensional,1.82,0.05,1.87
+Dimensional,1.63,0.29,1.92
+Dimensional,2.44,0.34,2.78
+Dimensional,2.44,0.52,2.96
+Dimensional,2.08,0.13,2.21
+Dimensional,1.75,2.0,3.75
+Dimensional,2.6,0.3,2.89
+Dimensional,1.99,1.51,3.5
+Dimensional,2.57,0.66,3.23
+Dimensional,2.22,0.0,2.22
+Dimensional,1.78,0.56,2.34
+Dimensional,1.77,0.42,2.19
+Dimensional,1.57,0.66,2.23
+Dimensional,2.53,0.17,2.7
+Dimensional,1.46,1.25,2.71
+Dimensional,1.33,0.61,1.94
+Dimensional,2.46,0.41,2.87
+Dimensional,2.05,1.24,3.3
+Dimensional,2.42,1.27,3.69
+Dimensional,2.36,0.2,2.56
+Dimensional,2.34,1.64,3.97
+Dimensional,1.91,0.83,2.74
+Dimensional,2.04,0.53,2.57
+Dimensional,1.97,2.04,4.01
+Dimensional,1.54,1.67,3.21
+Dimensional,1.95,0.57,2.52
+Dimensional,1.66,0.94,2.6
+Dimensional,2.25,0.73,2.98
+Dimensional,2.21,1.71,3.92
+Dimensional,1.84,0.49,2.33
+Dimensional,2.02,0.14,2.16
+Dimensional,2.72,0.91,3.63
+Dimensional,2.29,0.54,2.83
+Dimensional,1.76,2.36,4.12
+Dimensional,2.14,1.48,3.62
+Dimensional,1.88,1.6,3.48
+Dimensional,1.92,1.11,3.03
+Dimensional,1.92,0.57,2.49
+Dimensional,1.67,1.0,2.67
+Dimensional,1.59,0.61,2.19
+Dimensional,1.59,0.6,2.19
+Dimensional,2.13,0.16,2.29
+Dimensional,1.75,1.52,3.27
+Dimensional,2.23,0.03,2.26
+Dimensional,2.14,0.31,2.45
+Dimensional,1.91,0.89,2.8
+Dimensional,2.38,0.53,2.91
+Dimensional,2.86,0.46,3.32
+Dimensional,1.85,0.02,1.87
+Dimensional,1.74,0.89,2.63
+Dimensional,2.34,0.86,3.2
+Dimensional,1.92,0.48,2.39
+Dimensional,1.91,0.33,2.25
+Dimensional,1.63,0.23,1.86
+Dimensional,1.56,0.09,1.65
+Dimensional,1.99,0.31,2.3
+Dimensional,2.54,0.93,3.47
+Dimensional,2.17,1.38,3.55
+Dimensional,1.68,0.61,2.29
+Dimensional,1.81,1.38,3.19
+Dimensional,1.61,0.57,2.18
+Dimensional,2.8,0.35,3.15
+Dimensional,1.75,0.0,1.76
+Final Inspection,1.53,1.9,3.43
+Final Inspection,1.56,1.14,2.69
+Final Inspection,1.22,0.09,1.31
+Final Inspection,1.2,0.99,2.19
+Final Inspection,1.22,1.93,3.15
+Final Inspection,1.64,0.88,2.51
+Final Inspection,1.51,0.26,1.77
+Final Inspection,1.5,0.31,1.81
+Final Inspection,1.38,0.15,1.53
+Final Inspection,1.51,0.23,1.74
+Final Inspection,1.43,0.46,1.88
+Final Inspection,1.51,0.96,2.47
+Final Inspection,1.21,0.43,1.64
+Final Inspection,1.1,0.3,1.4
+Final Inspection,1.29,1.52,2.81
+Final Inspection,1.6,1.22,2.82
+Final Inspection,1.74,0.74,2.48
+Final Inspection,1.62,0.39,2.0
+Final Inspection,1.41,1.29,2.7
+Final Inspection,1.32,0.66,1.98
+Final Inspection,0.98,0.34,1.32
+Final Inspection,1.72,0.35,2.07
+Final Inspection,1.43,0.97,2.4
+Final Inspection,1.29,1.15,2.43
+Final Inspection,1.56,1.17,2.73
+Final Inspection,1.74,0.13,1.87
+Final Inspection,1.17,0.19,1.36
+Final Inspection,1.69,0.06,1.76
+Final Inspection,1.43,0.26,1.69
+Final Inspection,1.48,0.39,1.87
+Final Inspection,1.75,0.2,1.95
+Final Inspection,1.37,0.05,1.42
+Final Inspection,1.6,0.61,2.21
+Final Inspection,1.4,0.52,1.92
+Final Inspection,1.83,0.13,1.96
+Final Inspection,1.55,0.14,1.69
+Final Inspection,1.43,0.19,1.62
+Final Inspection,1.33,1.48,2.81
+Final Inspection,1.5,0.79,2.28
+Final Inspection,1.44,1.42,2.86
+Final Inspection,1.43,1.63,3.06
+Final Inspection,1.47,0.31,1.78
+Final Inspection,1.34,0.33,1.68
+Final Inspection,1.41,0.28,1.68
+Final Inspection,1.45,0.47,1.93
+Final Inspection,1.41,0.24,1.65
+Final Inspection,1.32,1.24,2.56
+Final Inspection,1.18,0.65,1.83
+Final Inspection,1.01,0.04,1.06
+Final Inspection,1.64,1.3,2.93
+Final Inspection,1.46,0.36,1.82
+Final Inspection,1.45,0.09,1.54
+Final Inspection,1.48,0.41,1.9
+Final Inspection,1.95,2.05,4.0
+Final Inspection,1.74,0.56,2.3
+Final Inspection,1.68,0.18,1.86
+Final Inspection,1.52,0.35,1.87
+Final Inspection,1.36,0.08,1.44
+Final Inspection,1.5,0.36,1.86
+Final Inspection,1.73,0.32,2.05
+Final Inspection,1.54,0.02,1.56
+Final Inspection,1.47,0.57,2.04
+Final Inspection,1.55,0.45,2.0
+Final Inspection,1.18,0.64,1.82
+Final Inspection,1.59,0.91,2.5
+Final Inspection,1.29,0.12,1.4
+Final Inspection,1.43,0.18,1.61
+Final Inspection,1.55,0.27,1.82
+Final Inspection,1.72,0.19,1.91
+Final Inspection,1.32,0.83,2.15
+Final Inspection,1.47,1.46,2.93
+Final Inspection,1.42,0.29,1.71
+Final Inspection,1.83,0.03,1.86
+Final Inspection,1.46,0.72,2.19
+Final Inspection,1.52,0.57,2.08
+Final Inspection,1.36,0.09,1.45
+Final Inspection,1.54,0.1,1.65
+Final Inspection,1.73,1.18,2.91
+Final Inspection,1.6,0.31,1.92
+Final Inspection,1.7,0.41,2.11
+Final Inspection,1.29,0.54,1.83
+Final Inspection,1.71,0.58,2.3
+Final Inspection,1.41,0.11,1.52
+Final Inspection,1.43,0.01,1.45
+Final Inspection,1.65,0.96,2.61
+Final Inspection,1.62,1.6,3.22
+Final Inspection,1.0,0.09,1.09
+Final Inspection,1.51,0.4,1.9
+Final Inspection,1.38,2.28,3.67
+Final Inspection,1.55,1.49,3.04
+Final Inspection,1.46,1.16,2.62
+Final Inspection,1.69,0.08,1.77
+Final Inspection,1.85,0.26,2.11
+Final Inspection,1.69,1.78,3.47
+Final Inspection,1.66,0.03,1.69
+Final Inspection,1.38,0.17,1.54
+Final Inspection,1.39,0.21,1.6
+Final Inspection,1.25,2.56,3.81
+Final Inspection,1.19,1.43,2.62
+Final Inspection,1.76,0.74,2.49
+Final Inspection,1.47,0.41,1.89
+Final Inspection,1.88,0.79,2.67
+Final Inspection,1.49,2.39,3.88
+Final Inspection,1.46,0.64,2.09
+Final Inspection,1.28,0.27,1.54
+Final Inspection,1.42,0.39,1.81
+Final Inspection,1.04,0.18,1.22
+Final Inspection,1.49,0.87,2.36
+Final Inspection,1.85,0.2,2.05
+Final Inspection,1.44,0.28,1.72
+Final Inspection,1.52,0.45,1.97
+Final Inspection,1.1,0.04,1.14
+Final Inspection,1.22,0.1,1.32
+Final Inspection,1.4,0.42,1.82
+Final Inspection,1.63,0.33,1.96
+Final Inspection,1.69,0.08,1.77
+Final Inspection,1.48,0.07,1.54
+Final Inspection,1.57,0.25,1.82
+Final Inspection,1.29,0.12,1.41
+Final Inspection,1.67,0.18,1.85
+Final Inspection,1.71,0.08,1.79
+Final Inspection,1.53,0.09,1.62
+Final Inspection,1.3,2.32,3.62
+Final Inspection,1.46,1.27,2.73
+Final Inspection,1.31,0.25,1.55
+Final Inspection,1.26,0.04,1.31
+Final Inspection,1.38,0.14,1.52
+Final Inspection,1.61,0.88,2.49
+Final Inspection,1.46,0.49,1.96
+Final Inspection,1.41,0.07,1.48
+Final Inspection,1.12,0.23,1.36
+Final Inspection,1.31,0.19,1.5
+Final Inspection,1.28,0.08,1.37
+Final Inspection,1.18,0.14,1.32
+Final Inspection,1.5,0.09,1.59
+Final Inspection,1.55,0.69,2.24
+Final Inspection,1.51,0.02,1.54
+Final Inspection,1.45,0.3,1.75
+Final Inspection,1.34,0.82,2.16
+Final Inspection,1.45,0.07,1.52
+Final Inspection,1.69,0.58,2.27
+Final Inspection,1.31,0.38,1.7
+Final Inspection,1.14,0.6,1.74
+Final Inspection,1.18,0.51,1.69
+Final Inspection,1.79,1.58,3.37
+Final Inspection,1.56,1.03,2.6
+Final Inspection,1.41,1.16,2.57
+Final Inspection,1.45,0.63,2.08
+Final Inspection,1.61,0.52,2.13
+Final Inspection,1.1,0.11,1.2
+Final Inspection,1.22,0.57,1.8
+Final Inspection,1.12,1.32,2.44
+Final Inspection,1.81,0.66,2.47
+Final Inspection,1.69,0.05,1.75
+Final Inspection,1.34,0.35,1.69
+Final Inspection,1.18,1.11,2.28
+Final Inspection,1.77,1.42,3.19
+Final Inspection,1.52,0.71,2.24
+Final Inspection,1.46,1.06,2.52
+Final Inspection,1.45,0.5,1.95
+Final Inspection,1.6,0.28,1.88
+Final Inspection,1.5,0.03,1.53
+Final Inspection,1.33,0.43,1.76
+Final Inspection,1.3,0.0,1.31
+Final Inspection,1.65,2.28,3.92
+Final Inspection,1.27,0.43,1.7
+Final Inspection,1.3,1.4,2.71
+Final Inspection,1.41,0.03,1.44
+Final Inspection,1.65,0.49,2.14
+Final Inspection,1.49,0.26,1.75
+Final Inspection,1.52,0.35,1.87
+Final Inspection,1.18,0.06,1.24
+Final Inspection,1.56,0.24,1.8
+Final Inspection,1.71,0.1,1.81
+Final Inspection,1.68,1.13,2.8
+Final Inspection,1.71,2.44,4.15
+Final Inspection,1.44,0.25,1.69
+Final Inspection,1.39,0.46,1.86
+Final Inspection,1.5,0.95,2.45
+Final Inspection,1.49,0.03,1.52
+Final Inspection,1.41,0.22,1.62
+Final Inspection,1.59,0.76,2.35
+Final Inspection,1.35,0.31,1.67
+Final Inspection,1.63,0.17,1.8
+Final Inspection,1.93,0.19,2.12
+Final Inspection,1.54,0.37,1.91
+Final Inspection,1.02,0.43,1.45
+Final Inspection,1.71,0.09,1.81
+Final Inspection,1.75,1.14,2.9
+Final Inspection,1.4,0.19,1.59
+Final Inspection,1.77,1.49,3.26
+Final Inspection,1.67,1.32,2.99
+Final Inspection,1.79,0.97,2.76
+Final Inspection,1.04,0.55,1.59
+Final Inspection,1.59,3.65,5.24
+Final Inspection,1.47,1.62,3.09
+Final Inspection,1.25,0.41,1.66
+Final Inspection,1.35,0.92,2.28
+Final Inspection,1.37,0.1,1.47
+Final Inspection,1.19,0.73,1.92
