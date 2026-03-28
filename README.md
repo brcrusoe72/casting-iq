@@ -35,3 +35,11 @@ streamlit run app.py
 **Brian Crusoe** — Manufacturing Data Engineer | Six Sigma Black Belt
 - [GitHub](https://github.com/brcrusoe72)
 - [LinkedIn](https://linkedin.com/in/briancrusoe)
+
+## Related Projects
+
+- **[Operations Intelligence Analyzer](https://github.com/brcrusoe72/operations-intelligence-analyzer)** — AI-powered OEE analysis ([live demo](https://oee.trueaicost.com))
+- **[AgentSearch](https://github.com/brcrusoe72/agent-search)** — Free, self-hosted search API for AI agents
+- **[Agent Café](https://github.com/brcrusoe72/agent-cafe)** — AI agent marketplace ([live at thecafe.dev](https://thecafe.dev))
+- **[Manufacturing Analyst Pro](https://github.com/brcrusoe72/manufacturing-analyst-pro)** — MES data analysis CLI
+- **[AI True Cost Calculator](https://trueaicost.com)** — Know what your AI project really costs
